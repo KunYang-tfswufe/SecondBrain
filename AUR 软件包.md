@@ -1,0 +1,6 @@
+- `yay -S visual-studio-code-bin` - VSCode 编辑器
+- `yay -S cursor-bin` - Cursor AI 编辑器
+- `yay -S vagrant` - [虚拟化环境管理](https://github.com/hashicorp/vagrant)
+- `yay -S envycontrol` - [NVIDIA GPU 模式切换](https://github.com/bayasdev/envycontrol)
+- `yay -S neovim-nightly-bin` - [Neovim (每夜版)](https://github.com/neovim/neovim)
+- `yay -S rustdesk-bin` - [远程桌面软件](https://github.com/rustdesk)
