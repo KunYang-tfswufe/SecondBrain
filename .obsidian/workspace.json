@@ -11,14 +11,14 @@
             "id": "01bf314b2c3bcff7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Automa.md",
-                "bFile": "Automa.md",
-                "aRef": ""
+                "file": "00 - Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Automa"
+              "icon": "lucide-file",
+              "title": "00 - Dashboard"
             }
           }
         ]
@@ -191,17 +191,19 @@
   },
   "active": "01bf314b2c3bcff7",
   "lastOpenFiles": [
+    "Pacman 软件包.md",
+    "如何有效组织笔记-模板笔记.md",
+    "HTTP协议.md",
+    "Other安装脚本.md",
+    "GitHub 书签.md",
+    "QEMU虚拟机.md",
+    "Untitled.md",
     "00 - Dashboard.md",
     "AI辅助探索知识清单.md",
     "AUR 软件包.md",
-    "GitHub 书签.md",
     "Flask.md",
     "GIMP.md",
-    "HTTP协议.md",
-    "Other安装脚本.md",
     "MyBatis.md",
-    "Pacman 软件包.md",
-    "QEMU虚拟机.md",
     "README.md",
     "专项学习.md",
     "在线工具书签.md",
@@ -215,8 +217,6 @@
     "自动化脚本.md",
     "越狱与Root.md",
     "逆向工程.md",
-    "代理上网.md",
-    "Unity.md",
     "assets/progit.pdf",
     "assets/kiss.kdbx",
     "assets/basic.tar",
