@@ -11,14 +11,14 @@
             "id": "4cfcdb5a175255e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Arch Linux 初始化蓝图.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Arch Linux 初始化蓝图.md",
+                "bFile": "Arch Linux 初始化蓝图.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Arch Linux 初始化蓝图"
+              "icon": "diff",
+              "title": "Diff: Arch Linux 初始化蓝图"
             }
           }
         ]
@@ -193,16 +193,16 @@
   "active": "4cfcdb5a175255e2",
   "lastOpenFiles": [
     "Arch Linux 初始化蓝图.md",
-    "AI辅助探索知识清单.md",
     "00 - Dashboard.md",
+    "AI辅助探索知识清单.md",
+    "Pacman 软件包.md",
+    "AUR 软件包.md",
+    "Other安装脚本.md",
+    "GitHub 书签.md",
+    "Templates/新笔记模板.md.md",
     "如何有效组织笔记-模板笔记.md",
     "基础archlinux软件包.md",
-    "Templates/新笔记模板.md.md",
     "Templates/Arch Packages Template.md.md",
-    "AUR 软件包.md",
-    "GitHub 书签.md",
-    "Pacman 软件包.md",
-    "Other安装脚本.md",
     "README.md",
     "在线工具书签.md",
     "专项学习.md",
