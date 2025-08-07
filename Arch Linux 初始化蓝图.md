@@ -3,33 +3,46 @@
 > [!TIP] 如何使用
 > - **维护**：要增删软件，只需在此表格中添加或删除行。
 
-| 包名 (Package Name)             | Upstream URL                                          | 描述                     |
-| ----------------------------- | ----------------------------------------------------- | ---------------------- |
-| `xdg-desktop-portal-hyprland` | https://github.com/hyprwm/xdg-desktop-portal-hyprland | Hyprland 的系统门户后端       |
-| `xdg-desktop-portal-gtk`      | https://github.com/flatpak/xdg-desktop-portal-gtk     | GTK 应用的系统门户            |
-| `waybar`                      | https://github.com/Alexays/Waybar/                    | Wayland 状态栏            |
-| `grim`                        | https://gitlab.freedesktop.org/emersion/grim          | Wayland 的截图工具          |
-| `slurp`                       | https://github.com/emersion/slurp                     | 在 Wayland 中选择一个区域      |
-| `wl-clipboard`                | https://github.com/bugaevc/wl-clipboard               | 用于 Wayland 的命令行复制/粘贴工具 |
-| `noto-fonts-cjk`              | https://www.google.com/get/noto/                      | Noto CJK 字体 (中日韩)      |
-| `ttf-font-awesome`            | https://fontawesome.com/                              | 图标字体库                  |
-| `ttf-jetbrains-mono-nerd`     | https://github.com/ryanoasis/nerd-fonts               | Nerd Font 开发者字体        |
-| `fcitx5-im`                   | https://github.com/fcitx                              | Fcitx5                 |
-| `fcitx5-rime`                 | https://github.com/fcitx/fcitx5-rime                  | Rime 输入法 (Fcitx5)      |
-| `nvidia-utils`                | http://www.nvidia.com/                                | NVIDIA 闭源驱动            |
-| `lib32-nvidia-utils`          | http://www.nvidia.com/                                | NVIDIA 驱动 (32位兼容)      |
-| `ntfs-3g`                     | https://www.tuxera.com/community/open-source-ntfs-3g/ | NTFS 文件系统支持            |
-| `tmux`                        | https://github.com/tmux/tmux/wiki                     | 终端复用器                  |
-| `fzf`                         | https://github.com/junegunn/fzf                       | 命令行模糊搜索                |
-| `ripgrep`                     | https://github.com/BurntSushi/ripgrep                 | 文件内容快速搜索               |
-| `bat`                         | https://github.com/sharkdp/bat                        | 带高亮的 `cat`             |
-| `lazygit`                     | https://github.com/jesseduffield/lazygit              | Git 终端 UI              |
-| `firefox`                     | https://www.mozilla.org/firefox/                      | 火狐浏览器                  |
-| `obsidian`                    | https://obsidian.md/                                  | 知识库与笔记软件               |
-| `keepassxc`                   | https://keepassxc.org/                                | 密码管理器                  |
-| `7zip`                        | https://www.7-zip.org/                                | 压缩工具                   |
-| `flatpak`                     | https://flatpak.org/                                  | 应用沙盒与分发                |
-| `htop`                        | https://htop.dev/                                     | 交互式进程查看器               |
+| 包名 (Package Name)             | Upstream URL                                          | 描述                       |
+| ----------------------------- | ----------------------------------------------------- | ------------------------ |
+| `xdg-desktop-portal-hyprland` | https://github.com/hyprwm/xdg-desktop-portal-hyprland | Hyprland 的系统门户后端         |
+| `xdg-desktop-portal-gtk`      | https://github.com/flatpak/xdg-desktop-portal-gtk     | GTK 应用的系统门户              |
+| `waybar`                      | https://github.com/Alexays/Waybar/                    | Wayland 状态栏              |
+| `grim`                        | https://gitlab.freedesktop.org/emersion/grim          | Wayland 的截图工具            |
+| `slurp`                       | https://github.com/emersion/slurp                     | 在 Wayland 中选择一个区域        |
+| `wl-clipboard`                | https://github.com/bugaevc/wl-clipboard               | 用于 Wayland 的命令行复制/粘贴工具   |
+| `noto-fonts-cjk`              | https://www.google.com/get/noto/                      | Noto CJK 字体 (中日韩)        |
+| `ttf-font-awesome`            | https://fontawesome.com/                              | 图标字体库                    |
+| `ttf-jetbrains-mono-nerd`     | https://github.com/ryanoasis/nerd-fonts               | Nerd Font 开发者字体          |
+| `fcitx5-im`                   | https://github.com/fcitx                              | Fcitx5                   |
+| `fcitx5-rime`                 | https://github.com/fcitx/fcitx5-rime                  | Rime 输入法 (Fcitx5)        |
+| `nvidia-utils`                | http://www.nvidia.com/                                | NVIDIA 闭源驱动              |
+| `lib32-nvidia-utils`          | http://www.nvidia.com/                                | NVIDIA 驱动 (32位兼容)        |
+| `lib32-mesa-utils`            | http://mesa3d.sourceforge.net/                        | Mesa 3D 库 (32位)          |
+| `mesa-utils`                  | https://www.mesa3d.org/                               | Mesa 3D 库                |
+| `ntfs-3g`                     | https://www.tuxera.com/community/open-source-ntfs-3g/ | NTFS 文件系统支持              |
+| `tmux`                        | https://github.com/tmux/tmux/wiki                     | 终端复用器                    |
+| `fzf`                         | https://github.com/junegunn/fzf                       | 命令行模糊搜索                  |
+| `ripgrep`                     | https://github.com/BurntSushi/ripgrep                 | 文件内容快速搜索                 |
+| `bat`                         | https://github.com/sharkdp/bat                        | 带高亮的 `cat`               |
+| `lazygit`                     | https://github.com/jesseduffield/lazygit              | Git 终端 UI                |
+| `firefox`                     | https://www.mozilla.org/firefox/                      | 火狐浏览器                    |
+| `obsidian`                    | https://obsidian.md/                                  | 知识库与笔记软件                 |
+| `keepassxc`                   | https://keepassxc.org/                                | 密码管理器                    |
+| `7zip`                        | https://www.7-zip.org/                                | 压缩工具                     |
+| `flatpak`                     | https://flatpak.org/                                  | 应用沙盒与分发                  |
+| `htop`                        | https://htop.dev/                                     | 交互式进程查看器                 |
+| `wireshark-cli`               | https://www.wireshark.org/                            | 网络协议分析器                  |
+| `github-cli`                  | https://github.com/cli/cli                            | GitHub 命令行工具             |
+| `mpv`                         | https://mpv.io/                                       | 强大的命令行媒体播放器              |
+| `obs-studio`                  | https://obsproject.com/                               | 开源的直播与屏幕录制软件             |
+| `yt-dlp`                      | https://github.com/yt-dlp/yt-dlp                      | 在线视频下载工具 (youtube-dl 分支) |
+| `nmap`                        | https://nmap.org/                                     | 网络探测和安全扫描器               |
+| `scrcpy`                      | https://github.com/Genymobile/scrcpy                  | 安卓设备投屏和控制工具              |
+| `prismlauncher`               | https://prismlauncher.org/                            | 开源的 Minecraft 启动器        |
+| `dust`                        | https://github.com/bootandy/dust                      | 更直观的磁盘使用情况分析工具 (du)      |
+| `okular`                      | https://apps.kde.org/okular/                          | KDE 通用文档查看器              |
+| `copyq`                       | https://github.com/hluk/copyq                         | 高级剪贴板管理器                 |
 ### 一键生成命令 (动态更新)
 
 ```dataviewjs

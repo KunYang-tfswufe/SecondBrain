@@ -11,10 +11,14 @@
             "id": "1cdf4c98c34ee137",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Arch Linux 初始化蓝图.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Arch Linux 初始化蓝图"
             }
           }
         ]
@@ -186,8 +190,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fd83e0e5906e353",
+  "active": "1cdf4c98c34ee137",
   "lastOpenFiles": [
+    "基础archlinux软件包.md",
     "Arch Linux 初始化蓝图.md",
     "00 - Dashboard.md",
     "AI辅助探索知识清单.md",
@@ -197,7 +202,6 @@
     "GitHub 书签.md",
     "Templates/新笔记模板.md.md",
     "如何有效组织笔记-模板笔记.md",
-    "基础archlinux软件包.md",
     "Templates/Arch Packages Template.md.md",
     "README.md",
     "在线工具书签.md",
