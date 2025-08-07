@@ -1,4 +1,3 @@
-- [ShellCrash](https://github.com/juewuy/ShellCrash) - 路由器 Shell 脚本
 - [Github Ranking](https://github.com/EvanLi/Github-Ranking) - GitHub 排名
 - [FabricMC](https://github.com/FabricMC) - Minecraft Modding 工具链
 - [GTNewHorizons](https://github.com/GTNewHorizons) - Minecraft Modpack
