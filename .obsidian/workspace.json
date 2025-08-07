@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e0471e62f3bb4898",
+        "id": "c3a525d78cf188b0",
         "type": "tabs",
         "children": [
           {
-            "id": "4cfcdb5a175255e2",
+            "id": "1cdf4c98c34ee137",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Arch Linux 初始化蓝图.md",
-                "bFile": "Arch Linux 初始化蓝图.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Arch Linux 初始化蓝图"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -190,7 +186,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cfcdb5a175255e2",
+  "active": "4fd83e0e5906e353",
   "lastOpenFiles": [
     "Arch Linux 初始化蓝图.md",
     "00 - Dashboard.md",
