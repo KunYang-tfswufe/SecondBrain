@@ -20,7 +20,7 @@
 [[GitHub 书签]]
 [[在线工具书签]]
 [[浏览器扩展书签]]
-[[Pacman 软件包]]
+[[Arch Linux 初始化蓝图]]
 [[AUR 软件包]]
 [[Other安装脚本]]
 [[Arch Linux 初始化蓝图]]
