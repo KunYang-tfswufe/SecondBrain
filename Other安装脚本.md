@@ -27,4 +27,8 @@
   docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main  
 # https://github.com/danielgatis/rembg
   docker run -d --restart always -p 7000:7000 danielgatis/rembg s --host 0.0.0.0 --port 7000
+# https://github.com/ollama/ollama
+  sudo pacman -S ollama-cuda
+  sudo systemctl enable ollama
+  sudo systemctl start ollama
 ```
