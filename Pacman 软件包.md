@@ -29,3 +29,4 @@
 - `sudo pacman -S okular` - [KDE 文档查看器](https://okular.kde.org)
 - `sudo pacman -S copyq` - [剪贴板管理器](https://github.com/hluk/CopyQ)
 - `sudo pacman -S firefox` - [火狐浏览器](https://www.mozilla.org/firefox)
+- `sudo pacman -S obsidian` - [强大的知识库和笔记应用](https://www.mozilla.org/firefox)

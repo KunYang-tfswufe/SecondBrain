@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUR 软件包.md",
+                "file": "Pacman 软件包.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AUR 软件包"
+              "title": "Pacman 软件包"
             }
           }
         ],
@@ -206,6 +206,7 @@
   },
   "active": "70e2e4b416c22ac4",
   "lastOpenFiles": [
+    "AUR 软件包.md",
     "00 - Dashboard.md",
     "Pacman 软件包.md",
     "Other安装脚本.md",
@@ -215,7 +216,6 @@
     "The-Archive.md",
     "CSS.md",
     "Automa.md",
-    "AUR 软件包.md",
     "ArchLinuxInstall.md",
     "README.md",
     "assets/progit.pdf",
