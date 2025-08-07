@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c3a525d78cf188b0",
+        "id": "5d7d7354051ee263",
         "type": "tabs",
         "children": [
           {
-            "id": "1cdf4c98c34ee137",
+            "id": "b4e23d5708cf1078",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "00 - Dashboard.md",
-                "bFile": "00 - Dashboard.md",
-                "aRef": ""
+                "file": "Arch Linux 初始化蓝图.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 00 - Dashboard"
+              "icon": "lucide-file",
+              "title": "Arch Linux 初始化蓝图"
             }
           }
         ]
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 521.5
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +190,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1cdf4c98c34ee137",
+  "active": "b4e23d5708cf1078",
   "lastOpenFiles": [
     "Other安装脚本.md",
     "Arch Linux 初始化蓝图.md",
