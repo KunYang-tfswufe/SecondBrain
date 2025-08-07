@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2cb38928d6f56a20",
+        "id": "8bae069ea0518a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "a520465d90d72dca",
+            "id": "01bf314b2c3bcff7",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Pacman 软件包.md",
-                "bFile": "Pacman 软件包.md",
-                "aRef": "8f8e33c8a2713523477c936f4f62111c70e1436c^",
-                "bRef": "8f8e33c8a2713523477c936f4f62111c70e1436c"
+                "aFile": "Automa.md",
+                "bFile": "Automa.md",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Pacman 软件包"
+              "title": "Diff: Automa"
             }
           }
         ]
@@ -190,20 +189,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fd83e0e5906e353",
+  "active": "01bf314b2c3bcff7",
   "lastOpenFiles": [
-    "Pacman 软件包.md",
     "00 - Dashboard.md",
-    "AUR 软件包.md",
-    "Other安装脚本.md",
-    "在线工具书签.md",
     "AI辅助探索知识清单.md",
+    "AUR 软件包.md",
+    "GitHub 书签.md",
+    "Flask.md",
+    "GIMP.md",
+    "HTTP协议.md",
+    "Other安装脚本.md",
+    "MyBatis.md",
+    "Pacman 软件包.md",
     "QEMU虚拟机.md",
-    "The-Archive.md",
-    "CSS.md",
-    "Automa.md",
-    "ArchLinuxInstall.md",
     "README.md",
+    "专项学习.md",
+    "在线工具书签.md",
+    "浏览器扩展书签.md",
+    "浏览器扩展开发.md",
+    "快速学习清单.md",
+    "渗透测试.md",
+    "网络数据包嗅探.md",
+    "网络漏洞靶场.md",
+    "网络爬虫.md",
+    "自动化脚本.md",
+    "越狱与Root.md",
+    "逆向工程.md",
+    "代理上网.md",
+    "Unity.md",
     "assets/progit.pdf",
     "assets/kiss.kdbx",
     "assets/basic.tar",
@@ -212,22 +225,8 @@
     "assets/CalculusEarlyTranscendentals.7z",
     "assets/AttentionIsAllYouNeed.pdf",
     "assets",
-    "MyBlog/README.md",
     "MyBlog/DockerDeepDive.pdf",
-    "浏览器扩展书签.md",
-    "GitHub 书签.md",
-    "专项学习.md",
-    "快速学习清单.md",
-    "Flask.md",
     "未命名.canvas",
-    "网络数据包嗅探.md",
-    "越狱与Root.md",
-    "代理上网.md",
-    "Unity.md",
-    "Minecraft Modding (Fabric).md",
-    "GIMP.md",
-    "Termux.md",
-    "网络漏洞靶场.md",
     "快速学习清单"
   ]
 }

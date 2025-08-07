@@ -1,1 +1,0 @@
-This is Automa note
