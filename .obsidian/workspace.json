@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3a9dd43d7e2b2d02",
+        "id": "b3d7efae9f207010",
         "type": "tabs",
         "children": [
           {
-            "id": "e118877d6b950460",
+            "id": "a38beb06cd05f1d5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": ""
+                "file": "00 - Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: appearance.json"
+              "icon": "lucide-file",
+              "title": "00 - Dashboard"
+            }
+          },
+          {
+            "id": "05f1b06f977ca9b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,24 +201,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e118877d6b950460",
+  "active": "05f1b06f977ca9b2",
   "lastOpenFiles": [
     "00 - Dashboard.md",
-    "AI辅助探索知识清单.md",
-    "浏览器扩展书签.md",
+    "专项学习.md",
+    "QEMU虚拟机.md",
+    "HTTP协议.md",
     "快速学习清单.md",
+    "AI辅助探索知识清单.md",
+    "Templates/新笔记模板.md.md",
+    "AUR 软件包.md",
+    "Other安装脚本.md",
+    "GitHub 书签.md",
+    "浏览器扩展书签.md",
     "如何有效组织笔记-模板笔记.md",
     "在线工具书签.md",
-    "专项学习.md",
     "README.md",
-    "QEMU虚拟机.md",
     "Pacman 软件包.md",
-    "Other安装脚本.md",
     "MyBatis.md",
-    "HTTP协议.md",
-    "GitHub 书签.md",
-    "AUR 软件包.md",
-    "Templates/新笔记模板.md.md",
     "rest.md",
     "RESTful API.md.md",
     "Templates",
