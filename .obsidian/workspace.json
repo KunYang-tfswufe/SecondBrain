@@ -11,14 +11,15 @@
             "id": "a520465d90d72dca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Pacman 软件包.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Pacman 软件包.md",
+                "bFile": "Pacman 软件包.md",
+                "aRef": "8f8e33c8a2713523477c936f4f62111c70e1436c^",
+                "bRef": "8f8e33c8a2713523477c936f4f62111c70e1436c"
               },
-              "icon": "lucide-file",
-              "title": "Pacman 软件包"
+              "icon": "diff",
+              "title": "Diff: Pacman 软件包"
             }
           }
         ]
@@ -191,8 +192,8 @@
   },
   "active": "4fd83e0e5906e353",
   "lastOpenFiles": [
-    "00 - Dashboard.md",
     "Pacman 软件包.md",
+    "00 - Dashboard.md",
     "AUR 软件包.md",
     "Other安装脚本.md",
     "在线工具书签.md",
