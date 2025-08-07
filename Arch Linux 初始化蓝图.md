@@ -18,8 +18,8 @@
 | `fcitx5-rime`                 | https://github.com/fcitx/fcitx5-rime                  | 基于 Fcitx5 的 Rime 输入法引擎，以其高度的可定制性而闻名。                         |
 | `nvidia-utils`                | http://www.nvidia.com/                                | NVIDIA 闭源显卡驱动程序和核心工具。                                        |
 | `lib32-nvidia-utils`          | http://www.nvidia.com/                                | 为 32 位应用程序（如部分 Steam 游戏）提供 NVIDIA 驱动的兼容库。                    |
-| `lib32-mesa-utils`            | http://mesa3d.sourceforge.net/                        | Mesa 3D 图形库的 32 位版本，为 32 位应用提供图形支持。                          |
 | `mesa-utils`                  | https://www.mesa3d.org/                               | 开源 3D 图形库 (Mesa) 的实用工具，通常用于测试和获取 OpenGL/Vulkan 信息。           |
+| `lib32-mesa-utils`            | http://mesa3d.sourceforge.net/                        | Mesa 3D 图形库的 32 位版本，为 32 位应用提供图形支持。                          |
 | `ntfs-3g`                     | https://www.tuxera.com/community/open-source-ntfs-3g/ | 用于在 Linux 系统下安全地读写 Windows NTFS 文件系统的驱动。                     |
 | `tmux`                        | https://github.com/tmux/tmux/wiki                     | 终端复用器，允许在一个终端窗口中创建和管理多个会话、窗口和窗格。                             |
 | `fzf`                         | https://github.com/junegunn/fzf                       | 一款速度极快的交互式命令行模糊搜索工具，可用于查找文件、历史命令等。                           |
