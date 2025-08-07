@@ -23,3 +23,4 @@
 [[Pacman 软件包]]
 [[AUR 软件包]]
 [[Other安装脚本]]
+[[Arch Linux 初始化蓝图]]
