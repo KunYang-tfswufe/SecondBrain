@@ -11,10 +11,14 @@
             "id": "497ddc21a2838ef2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "基础archlinux软件包.md",
+                "bFile": "基础archlinux软件包.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 基础archlinux软件包"
             }
           }
         ]
@@ -188,6 +192,7 @@
   },
   "active": "497ddc21a2838ef2",
   "lastOpenFiles": [
+    "基础archlinux软件包.md",
     "GitHub 书签.md",
     "00 - Dashboard.md",
     "Arch Linux 初始化蓝图.md",
@@ -196,7 +201,6 @@
     "Templates/新笔记模板.md.md",
     "专项学习.md",
     "在线工具书签.md",
-    "基础archlinux软件包.md",
     "AUR 软件包.md",
     "Pacman 软件包.md",
     "如何有效组织笔记-模板笔记.md",
