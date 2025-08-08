@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff72ecea3612c66b",
+        "id": "57696b0dfcd9764b",
         "type": "tabs",
         "children": [
           {
-            "id": "497ddc21a2838ef2",
+            "id": "03967a80de53f18b",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "基础archlinux软件包.md",
-                "bFile": "基础archlinux软件包.md",
+                "aFile": "GitHub 书签.md",
+                "bFile": "GitHub 书签.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 基础archlinux软件包"
+              "title": "Diff: GitHub 书签"
             }
           }
         ]
@@ -190,26 +190,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "497ddc21a2838ef2",
+  "active": "03967a80de53f18b",
   "lastOpenFiles": [
-    "基础archlinux软件包.md",
-    "GitHub 书签.md",
-    "00 - Dashboard.md",
-    "Arch Linux 初始化蓝图.md",
-    "Other安装脚本.md",
-    "AI辅助探索知识清单.md",
-    "Templates/新笔记模板.md.md",
-    "专项学习.md",
     "在线工具书签.md",
-    "AUR 软件包.md",
-    "Pacman 软件包.md",
-    "如何有效组织笔记-模板笔记.md",
-    "Templates/Arch Packages Template.md.md",
+    "00 - Dashboard.md",
+    "Templates/新笔记模板.md.md",
     "README.md",
+    "GitHub 书签.md",
+    "AUR 软件包.md",
+    "Arch Linux 初始化蓝图.md",
+    "AI辅助探索知识清单.md",
+    "快速学习清单.md",
+    "如何有效组织笔记-模板笔记.md",
+    "基础archlinux软件包.md",
+    "专项学习.md",
+    "Other安装脚本.md",
+    "浏览器扩展书签.md",
+    "Pacman 软件包.md",
+    "Templates/Arch Packages Template.md.md",
     "QEMU虚拟机.md",
     "HTTP协议.md",
-    "快速学习清单.md",
-    "浏览器扩展书签.md",
     "MyBatis.md",
     "rest.md",
     "RESTful API.md.md",
