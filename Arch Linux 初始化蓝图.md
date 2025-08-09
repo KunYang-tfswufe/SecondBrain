@@ -43,6 +43,7 @@
 | `dust`                        | https://github.com/bootandy/dust                      |
 | `okular`                      | https://apps.kde.org/okular/                          |
 | `copyq`                       | https://github.com/hluk/copyq                         |
+| `tigervnc`                    | https://www.tigervnc.org/                             |
 ### 一键生成命令 (动态更新)
 
 ```dataviewjs

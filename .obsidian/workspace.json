@@ -11,15 +11,14 @@
             "id": "89ddf26f8a0b706c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "配置STM32开发环境(Arch).md",
-                "bFile": "配置STM32开发环境(Arch).md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Arch Linux 初始化蓝图.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 配置STM32开发环境(Arch)"
+              "icon": "lucide-file",
+              "title": "Arch Linux 初始化蓝图"
             }
           }
         ]
@@ -193,18 +192,18 @@
   },
   "active": "89ddf26f8a0b706c",
   "lastOpenFiles": [
-    "配置STM32开发环境(Arch).md",
-    "Arch Linux 初始化蓝图.md",
-    "00 - Dashboard.md",
-    "AI辅助探索知识清单.md",
+    "Other安装脚本.md",
+    "GitHub 书签.md",
+    "专项学习.md",
+    "README.md",
     "浏览器扩展书签.md",
     "快速学习清单.md",
     "在线工具书签.md",
-    "专项学习.md",
-    "README.md",
-    "Other安装脚本.md",
-    "GitHub 书签.md",
+    "配置STM32开发环境(Arch).md",
     "AUR 软件包.md",
+    "Arch Linux 初始化蓝图.md",
+    "00 - Dashboard.md",
+    "AI辅助探索知识清单.md",
     "如何有效组织笔记-模板笔记.md",
     "Templates/新笔记模板.md.md",
     "基础archlinux软件包.md",
