@@ -1,15 +1,3 @@
----
-aliases:
-  - Arch初始化
-tags:
-  - arch
-  - linux
-  - setup
-os: Arch Linux
-display_server: Wayland
-wm: Hyprland
-updated: 2025-08-09
----
 ### 目录
 - [前置准备](#前置准备)
 - [安装 AUR 助手 (yay)](#安装-aur-助手-yay)

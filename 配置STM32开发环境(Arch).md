@@ -1,12 +1,3 @@
----
-type: setup-guide
-tags: [arch, stm32, setup]
-topic: stm32
-os: Arch Linux
-updated: 2025-08-09
-requires: [yay, manual-download]
----
-
 ST 官网的软件包（如 CubeIDE, CubeProg）需要登录才能下载，因此 `yay` 无法自动完成。必须手动下载安装包，再进行安装。
 
 > [!WARNING] 核心问题排查

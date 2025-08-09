@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "62ceb5e80748a8b1",
+        "id": "22e989d8d0a519ea",
         "type": "tabs",
         "children": [
           {
-            "id": "ba64538bb3d3f4c1",
+            "id": "84561770ed283960",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "AI辅助探索知识清单.md",
+                "bFile": "AI辅助探索知识清单.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: AI辅助探索知识清单"
             }
           }
         ]
@@ -189,18 +189,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fd83e0e5906e353",
+  "active": "84561770ed283960",
   "lastOpenFiles": [
-    "ArchLinux初始化.md",
     "AI辅助探索知识清单.md",
+    "ArchLinux初始化.md",
     "GitHub 书签.md",
-    "在线工具书签.md",
     "README.md",
-    "00 - Dashboard.md",
-    "配置STM32开发环境(Arch).md",
-    "浏览器扩展书签.md",
-    "快速学习清单.md",
     "专项学习.md",
+    "在线工具书签.md",
+    "快速学习清单.md",
+    "浏览器扩展书签.md",
+    "配置STM32开发环境(Arch).md",
+    "00 - Dashboard.md",
     "Templates/Bookmarks Template.md",
     "Templates/Blueprint Template.md",
     "Templates",
