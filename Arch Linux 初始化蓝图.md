@@ -5,6 +5,7 @@
 
 | 包名 (Package Name)             | Upstream URL                                          |
 | ----------------------------- | ----------------------------------------------------- |
+| `neovim`                      | https://neovim.io/                                    |
 | `xdg-desktop-portal-hyprland` | https://github.com/hyprwm/xdg-desktop-portal-hyprland |
 | `xdg-desktop-portal-gtk`      | https://github.com/flatpak/xdg-desktop-portal-gtk     |
 | `waybar`                      | https://github.com/Alexays/Waybar/                    |
