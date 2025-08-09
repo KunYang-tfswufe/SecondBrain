@@ -1,4 +1,4 @@
-### 安装AUR
+### 安装 AUR 助手 (yay)
 
 ```shell
 # https://github.com/Jguer/yay/
@@ -107,16 +107,21 @@ yay -S espanso-wayland # xxx - https://github.com/espanso
 ### pacman 和 yay的软件包都安装后启动必要的服务
 
 ```shell
-sudo systemctl start docker
-sudo systemctl enable docker
-sudo usermod -aG docker $USER
+# Docker 相关服务
+sudo systemctl enable --now docker  # 设置 Docker 开机自启并立即启动
+sudo usermod -aG docker $USER     # 将当前用户添加到 docker 组，避免每次都用 sudo
+
+# Espanso 输入法扩展
 espanso service register
 espanso service start
-chsh -s /usr/bin/fish
-sudo systemctl enable ollama
-sudo systemctl start ollama
+
+# Ollama 服务
+sudo systemctl enable --now ollama # 设置 Ollama 开机自启并立即启动
+
+# 设置默认 Shell
+chsh -s /usr/bin/fish             # 将默认 Shell 更改为 Fish
 ```
-### docker软件包(因为软件包太大所以可选)
+### 可选的 Docker 应用
 ```shell
 # https://github.com/Mintplex-Labs/anything-llm
   docker pull mintplexlabs/anythingllm
