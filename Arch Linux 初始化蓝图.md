@@ -80,4 +80,13 @@ ${command}
 \`\`\`
 `);
 ```
+### AUR 软件包
+
+```shell
+yay -S cursor-bin # Cursor AI 编辑器 - https://www.cursor.com/
+yay -S envycontrol # NVIDIA GPU 模式切换 - https://github.com/bayasdev/envycontrol
+```
+
+### 环境配置
+
 [[配置STM32开发环境(Arch).md]]

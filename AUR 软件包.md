@@ -1,3 +1,0 @@
-- `yay -S cursor-bin` - Cursor AI 编辑器
-- `yay -S vagrant` - [虚拟化环境管理](https://github.com/hashicorp/vagrant)
-- `yay -S envycontrol` - [NVIDIA GPU 模式切换](https://github.com/bayasdev/envycontrol)

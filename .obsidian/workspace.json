@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca583e60c890649",
+        "id": "db006efef3052304",
         "type": "tabs",
         "children": [
           {
-            "id": "89ddf26f8a0b706c",
+            "id": "217f9abd57b05ca3",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Arch Linux 初始化蓝图.md",
-                "bFile": "Arch Linux 初始化蓝图.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": "AUR 软件包.md",
+                "bFile": "AUR 软件包.md",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Arch Linux 初始化蓝图"
+              "title": "Diff: AUR 软件包"
             }
           }
         ]
@@ -143,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch Linux 初始化蓝图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arch Linux 初始化蓝图"
+              "title": "Outline"
             }
           },
           {
@@ -191,19 +189,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "89ddf26f8a0b706c",
+  "active": "217f9abd57b05ca3",
   "lastOpenFiles": [
-    "AUR 软件包.md",
     "Arch Linux 初始化蓝图.md",
-    "AI辅助探索知识清单.md",
+    "AUR 软件包.md",
     "快速学习清单.md",
+    "浏览器扩展书签.md",
+    "在线工具书签.md",
+    "AI辅助探索知识清单.md",
     "配置STM32开发环境(Arch).md",
     "专项学习.md",
     "Other安装脚本.md",
     "GitHub 书签.md",
     "README.md",
-    "浏览器扩展书签.md",
-    "在线工具书签.md",
     "00 - Dashboard.md",
     "如何有效组织笔记-模板笔记.md",
     "Templates/新笔记模板.md.md",
