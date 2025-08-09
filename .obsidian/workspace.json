@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArchLinux初始化.md",
+                "file": "00 - Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ArchLinux初始化"
+              "title": "00 - Dashboard"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArchLinux初始化.md",
+                "file": "00 - Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ArchLinux初始化"
+              "title": "Outline of 00 - Dashboard"
             }
           },
           {
@@ -192,16 +192,16 @@
   },
   "active": "e3414b4509e698dd",
   "lastOpenFiles": [
-    "GitHub 书签.md",
     "AI辅助探索知识清单.md",
-    "ArchLinux初始化.md",
+    "00 - Dashboard.md",
     "配置STM32开发环境(Arch).md",
     "浏览器扩展书签.md",
     "快速学习清单.md",
     "在线工具书签.md",
     "专项学习.md",
     "README.md",
-    "00 - Dashboard.md",
+    "GitHub 书签.md",
+    "ArchLinux初始化.md",
     "Templates/Bookmarks Template.md",
     "Templates/Blueprint Template.md",
     "Templates",
