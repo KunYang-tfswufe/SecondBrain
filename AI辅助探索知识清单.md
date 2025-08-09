@@ -1,3 +1,9 @@
+---
+type: learning-plan
+tags: [learning, ai]
+status: active
+updated: 2025-08-09
+---
 - [ ] **独立生活指南(洛杉矶版)**
 - [ ] **基础医学常识**
 - [ ] **安全常识**

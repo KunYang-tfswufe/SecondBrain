@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "baf30f6528148754",
+        "id": "1a0dbde45fe966e2",
         "type": "tabs",
         "children": [
           {
-            "id": "0e82aeb823e3205e",
+            "id": "e3414b4509e698dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,18 +190,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e82aeb823e3205e",
+  "active": "e3414b4509e698dd",
   "lastOpenFiles": [
-    "AI辅助探索知识清单.md",
-    "在线工具书签.md",
+    "README.md",
+    "Templates/Bookmarks Template.md",
+    "Templates/Blueprint Template.md",
+    "GitHub 书签.md",
+    "配置STM32开发环境(Arch).md",
     "浏览器扩展书签.md",
     "快速学习清单.md",
-    "配置STM32开发环境(Arch).md",
+    "在线工具书签.md",
     "专项学习.md",
-    "README.md",
-    "GitHub 书签.md",
     "Arch Linux 初始化蓝图.md",
+    "AI辅助探索知识清单.md",
     "00 - Dashboard.md",
+    "Templates",
     "Other安装脚本.md",
     "AUR 软件包.md",
     "如何有效组织笔记-模板笔记.md",
@@ -216,9 +219,6 @@
     "MyBatis.md",
     "rest.md",
     "RESTful API.md.md",
-    "Templates",
-    "Flask.md",
-    "GIMP.md",
     "assets/progit.pdf",
     "assets/kiss.kdbx",
     "assets/basic.tar",
