@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db006efef3052304",
+        "id": "25dfd2cd3a9b26ed",
         "type": "tabs",
         "children": [
           {
-            "id": "217f9abd57b05ca3",
+            "id": "0b617eb4eb43e3fe",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "AUR 软件包.md",
-                "bFile": "AUR 软件包.md",
+                "aFile": "00 - Dashboard.md",
+                "bFile": "00 - Dashboard.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: AUR 软件包"
+              "title": "Diff: 00 - Dashboard"
             }
           }
         ]
@@ -189,20 +189,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "217f9abd57b05ca3",
+  "active": "0b617eb4eb43e3fe",
   "lastOpenFiles": [
-    "Arch Linux 初始化蓝图.md",
-    "AUR 软件包.md",
-    "快速学习清单.md",
-    "浏览器扩展书签.md",
     "在线工具书签.md",
-    "AI辅助探索知识清单.md",
+    "浏览器扩展书签.md",
+    "快速学习清单.md",
     "配置STM32开发环境(Arch).md",
     "专项学习.md",
-    "Other安装脚本.md",
-    "GitHub 书签.md",
     "README.md",
+    "GitHub 书签.md",
+    "Arch Linux 初始化蓝图.md",
     "00 - Dashboard.md",
+    "AI辅助探索知识清单.md",
+    "Other安装脚本.md",
+    "AUR 软件包.md",
     "如何有效组织笔记-模板笔记.md",
     "Templates/新笔记模板.md.md",
     "基础archlinux软件包.md",

@@ -1,50 +1,67 @@
+### 安装AUR
+
+```shell
+# https://github.com/Jguer/yay/
+  sudo pacman -Syu
+  sudo pacman -S git
+  git clone https://aur.archlinux.org/yay.git
+  cd yay
+  makepkg -si
+```
+
 ### Arch Linux 软件包清单 (单一数据源)
 
 > [!TIP] 如何使用
 > - **维护**：要增删软件，只需在此表格中添加或删除行。
 
-| 包名 (Package Name)             | Upstream URL                                          |
-| ----------------------------- | ----------------------------------------------------- |
-| `neovim`                      | https://neovim.io/                                    |
-| `xdg-desktop-portal-hyprland` | https://github.com/hyprwm/xdg-desktop-portal-hyprland |
-| `xdg-desktop-portal-gtk`      | https://github.com/flatpak/xdg-desktop-portal-gtk     |
-| `waybar`                      | https://github.com/Alexays/Waybar/                    |
-| `grim`                        | https://gitlab.freedesktop.org/emersion/grim          |
-| `slurp`                       | https://github.com/emersion/slurp                     |
-| `wl-clipboard`                | https://github.com/bugaevc/wl-clipboard               |
-| `noto-fonts-cjk`              | https://www.google.com/get/noto/                      |
-| `ttf-font-awesome`            | https://fontawesome.com/                              |
-| `ttf-jetbrains-mono-nerd`     | https://github.com/ryanoasis/nerd-fonts               |
-| `fcitx5-im`                   | https://github.com/fcitx                              |
-| `fcitx5-rime`                 | https://github.com/fcitx/fcitx5-rime                  |
-| `nvidia-utils`                | http://www.nvidia.com/                                |
-| `lib32-nvidia-utils`          | http://www.nvidia.com/                                |
-| `mesa-utils`                  | https://www.mesa3d.org/                               |
-| `lib32-mesa-utils`            | http://mesa3d.sourceforge.net/                        |
-| `ntfs-3g`                     | https://www.tuxera.com/community/open-source-ntfs-3g/ |
-| `zellij`                      | https://archlinux.org/packages/extra/x86_64/zellij/   |
-| `fzf`                         | https://github.com/junegunn/fzf                       |
-| `ripgrep`                     | https://github.com/BurntSushi/ripgrep                 |
-| `bat`                         | https://github.com/sharkdp/bat                        |
-| `lazygit`                     | https://github.com/jesseduffield/lazygit              |
-| `firefox`                     | https://www.mozilla.org/firefox/                      |
-| `obsidian`                    | https://obsidian.md/                                  |
-| `keepassxc`                   | https://keepassxc.org/                                |
-| `7zip`                        | https://www.7-zip.org/                                |
-| `flatpak`                     | https://flatpak.org/                                  |
-| `bottom`                      | https://github.com/ClementTsang/bottom                |
-| `wireshark-cli`               | https://www.wireshark.org/                            |
-| `github-cli`                  | https://github.com/cli/cli                            |
-| `mpv`                         | https://mpv.io/                                       |
-| `obs-studio`                  | https://obsproject.com/                               |
-| `yt-dlp`                      | https://github.com/yt-dlp/yt-dlp                      |
-| `rustscan`                    | https://github.com/rustscan/RustScan                  |
-| `scrcpy`                      | https://github.com/Genymobile/scrcpy                  |
-| `prismlauncher`               | https://prismlauncher.org/                            |
-| `dust`                        | https://github.com/bootandy/dust                      |
-| `okular`                      | https://apps.kde.org/okular/                          |
-| `copyq`                       | https://github.com/hluk/copyq                         |
-| `tigervnc`                    | https://www.tigervnc.org/                             |
+| 包名 (Package Name)             | Upstream URL                                               |
+| ----------------------------- | ---------------------------------------------------------- |
+| `neovim`                      | https://neovim.io/                                         |
+| `xdg-desktop-portal-hyprland` | https://github.com/hyprwm/xdg-desktop-portal-hyprland      |
+| `xdg-desktop-portal-gtk`      | https://github.com/flatpak/xdg-desktop-portal-gtk          |
+| `waybar`                      | https://github.com/Alexays/Waybar/                         |
+| `grim`                        | https://gitlab.freedesktop.org/emersion/grim               |
+| `slurp`                       | https://github.com/emersion/slurp                          |
+| `wl-clipboard`                | https://github.com/bugaevc/wl-clipboard                    |
+| `noto-fonts-cjk`              | https://www.google.com/get/noto/                           |
+| `ttf-font-awesome`            | https://fontawesome.com/                                   |
+| `ttf-jetbrains-mono-nerd`     | https://github.com/ryanoasis/nerd-fonts                    |
+| `fcitx5-im`                   | https://github.com/fcitx                                   |
+| `fcitx5-rime`                 | https://github.com/fcitx/fcitx5-rime                       |
+| `nvidia-utils`                | http://www.nvidia.com/                                     |
+| `lib32-nvidia-utils`          | http://www.nvidia.com/                                     |
+| `mesa-utils`                  | https://www.mesa3d.org/                                    |
+| `lib32-mesa-utils`            | http://mesa3d.sourceforge.net/                             |
+| `ntfs-3g`                     | https://www.tuxera.com/community/open-source-ntfs-3g/      |
+| `zellij`                      | https://archlinux.org/packages/extra/x86_64/zellij/        |
+| `fzf`                         | https://github.com/junegunn/fzf                            |
+| `ripgrep`                     | https://github.com/BurntSushi/ripgrep                      |
+| `bat`                         | https://github.com/sharkdp/bat                             |
+| `lazygit`                     | https://github.com/jesseduffield/lazygit                   |
+| `firefox`                     | https://www.mozilla.org/firefox/                           |
+| `obsidian`                    | https://obsidian.md/                                       |
+| `keepassxc`                   | https://keepassxc.org/                                     |
+| `7zip`                        | https://www.7-zip.org/                                     |
+| `flatpak`                     | https://flatpak.org/                                       |
+| `bottom`                      | https://github.com/ClementTsang/bottom                     |
+| `wireshark-cli`               | https://www.wireshark.org/                                 |
+| `github-cli`                  | https://github.com/cli/cli                                 |
+| `mpv`                         | https://mpv.io/                                            |
+| `obs-studio`                  | https://obsproject.com/                                    |
+| `yt-dlp`                      | https://github.com/yt-dlp/yt-dlp                           |
+| `rustscan`                    | https://github.com/rustscan/RustScan                       |
+| `scrcpy`                      | https://github.com/Genymobile/scrcpy                       |
+| `prismlauncher`               | https://prismlauncher.org/                                 |
+| `dust`                        | https://github.com/bootandy/dust                           |
+| `okular`                      | https://apps.kde.org/okular/                               |
+| `copyq`                       | https://github.com/hluk/copyq                              |
+| `tigervnc`                    | https://www.tigervnc.org/                                  |
+| `docker`                      | https://www.docker.com/                                    |
+| `docker-compose`              | https://www.docker.com/                                    |
+| `fish`                        | https://fishshell.com/                                     |
+| `qemu-full`                   | https://www.qemu.org/                                      |
+| `edk2-ovmf`                   | https://github.com/tianocore/tianocore.github.io/wiki/OVMF |
+| `ollama-cuda`                 | https://github.com/ollama/ollama                           |
 ### 一键生成命令 (动态更新)
 
 ```dataviewjs
@@ -85,6 +102,29 @@ ${command}
 ```shell
 yay -S cursor-bin # Cursor AI 编辑器 - https://www.cursor.com/
 yay -S envycontrol # NVIDIA GPU 模式切换 - https://github.com/bayasdev/envycontrol
+yay -S espanso-wayland # xxx - https://github.com/espanso
+```
+### pacman 和 yay的软件包都安装后启动必要的服务
+
+```shell
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo usermod -aG docker $USER
+espanso service register
+espanso service start
+chsh -s /usr/bin/fish
+sudo systemctl enable ollama
+sudo systemctl start ollama
+```
+### docker软件包(因为软件包太大所以可选)
+```shell
+# https://github.com/Mintplex-Labs/anything-llm
+  docker pull mintplexlabs/anythingllm
+  docker run -d --restart always -p 3001:3001 mintplexlabs/anythingllm  
+# https://github.com/open-webui/open-webui
+  docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main  
+# https://github.com/danielgatis/rembg
+  docker run -d --restart always -p 7000:7000 danielgatis/rembg s --host 0.0.0.0 --port 7000
 ```
 
 ### 环境配置
