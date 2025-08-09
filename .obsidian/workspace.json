@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch Linux 初始化蓝图.md",
+                "file": "ArchLinux初始化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch Linux 初始化蓝图"
+              "title": "ArchLinux初始化"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch Linux 初始化蓝图.md",
+                "file": "ArchLinux初始化.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arch Linux 初始化蓝图"
+              "title": "Outline of ArchLinux初始化"
             }
           },
           {
@@ -192,18 +192,18 @@
   },
   "active": "e3414b4509e698dd",
   "lastOpenFiles": [
-    "README.md",
-    "Templates/Bookmarks Template.md",
-    "Templates/Blueprint Template.md",
     "GitHub 书签.md",
+    "AI辅助探索知识清单.md",
+    "ArchLinux初始化.md",
     "配置STM32开发环境(Arch).md",
     "浏览器扩展书签.md",
     "快速学习清单.md",
     "在线工具书签.md",
     "专项学习.md",
-    "Arch Linux 初始化蓝图.md",
-    "AI辅助探索知识清单.md",
+    "README.md",
     "00 - Dashboard.md",
+    "Templates/Bookmarks Template.md",
+    "Templates/Blueprint Template.md",
     "Templates",
     "Other安装脚本.md",
     "AUR 软件包.md",

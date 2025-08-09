@@ -1,7 +1,10 @@
 ---
-aliases: ["Arch 初始化蓝图"]
-tags: [arch, linux, setup, blueprint]
-type: setup-blueprint
+aliases:
+  - Arch初始化
+tags:
+  - arch
+  - linux
+  - setup
 os: Arch Linux
 display_server: Wayland
 wm: Hyprland
