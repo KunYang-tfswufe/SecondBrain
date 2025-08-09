@@ -21,7 +21,7 @@
 | `mesa-utils`                  | https://www.mesa3d.org/                               |
 | `lib32-mesa-utils`            | http://mesa3d.sourceforge.net/                        |
 | `ntfs-3g`                     | https://www.tuxera.com/community/open-source-ntfs-3g/ |
-| `tmux`                        | https://github.com/tmux/tmux/wiki                     |
+| `zellij`                      | https://archlinux.org/packages/extra/x86_64/zellij/   |
 | `fzf`                         | https://github.com/junegunn/fzf                       |
 | `ripgrep`                     | https://github.com/BurntSushi/ripgrep                 |
 | `bat`                         | https://github.com/sharkdp/bat                        |
