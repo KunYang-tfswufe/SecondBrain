@@ -37,7 +37,7 @@
 | `mpv`                         | https://mpv.io/                                       |
 | `obs-studio`                  | https://obsproject.com/                               |
 | `yt-dlp`                      | https://github.com/yt-dlp/yt-dlp                      |
-| `nmap`                        | https://nmap.org/                                     |
+| `rustscan`                    | https://github.com/rustscan/RustScan                  |
 | `scrcpy`                      | https://github.com/Genymobile/scrcpy                  |
 | `prismlauncher`               | https://prismlauncher.org/                            |
 | `dust`                        | https://github.com/bootandy/dust                      |
