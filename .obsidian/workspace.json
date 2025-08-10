@@ -11,14 +11,14 @@
             "id": "5dce5ee083acf8b2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "书签.md",
-                "bFile": "书签.md",
-                "aRef": ""
+                "file": "书签.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 书签"
+              "icon": "lucide-file",
+              "title": "书签"
             }
           }
         ]
@@ -191,10 +191,10 @@
   },
   "active": "5dce5ee083acf8b2",
   "lastOpenFiles": [
-    "书签.md",
-    "配置STM32开发环境(Arch).md",
     "ArchLinux初始化.md",
+    "书签.md",
     "README.md",
+    "配置STM32开发环境(Arch).md",
     "学习.md",
     "00 - Dashboard.md",
     "AI辅助探索知识清单.md",
