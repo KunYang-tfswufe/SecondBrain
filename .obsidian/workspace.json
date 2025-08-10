@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c04f1ba2d958aee1",
+        "id": "829c5e391fbaa8c5",
         "type": "tabs",
         "children": [
           {
-            "id": "98f5eeedefcf0281",
+            "id": "9d2fb4c77ca903bb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "学习.md",
-                "bFile": "学习.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 学习"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -189,7 +185,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98f5eeedefcf0281",
+  "active": "4fd83e0e5906e353",
   "lastOpenFiles": [
     "学习.md",
     "配置STM32开发环境(Arch).md",
