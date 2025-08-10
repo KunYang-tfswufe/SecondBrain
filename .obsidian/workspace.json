@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96793676a285c9ed",
+        "id": "bf30bd0a9c87cccf",
         "type": "tabs",
         "children": [
           {
-            "id": "f96730da2c624cdf",
+            "id": "e82e4d1edb764d38",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -189,14 +189,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f96730da2c624cdf",
+  "active": "e82e4d1edb764d38",
   "lastOpenFiles": [
     "学习.md",
-    "ArchLinux初始化.md",
     "README.md",
     "书签.md",
-    "配置STM32开发环境(Arch).md",
+    "ArchLinux初始化.md",
     "00 - Dashboard.md",
+    "配置STM32开发环境(Arch).md",
     "().md",
     "AI辅助探索知识清单.md",
     "快速学习清单.md",
