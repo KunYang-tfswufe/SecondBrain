@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef6c193ce3158fa5",
+        "id": "96793676a285c9ed",
         "type": "tabs",
         "children": [
           {
-            "id": "412f65568fa51b07",
+            "id": "f96730da2c624cdf",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "学习.md",
-                "bFile": "学习.md",
-                "aRef": ""
+                "file": "学习.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 学习"
+              "icon": "lucide-file",
+              "title": "学习"
             }
           }
         ]
@@ -189,14 +189,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "412f65568fa51b07",
+  "active": "f96730da2c624cdf",
   "lastOpenFiles": [
+    "ArchLinux初始化.md",
+    "README.md",
     "学习.md",
     "书签.md",
     "配置STM32开发环境(Arch).md",
-    "README.md",
     "00 - Dashboard.md",
-    "ArchLinux初始化.md",
     "().md",
     "AI辅助探索知识清单.md",
     "快速学习清单.md",
