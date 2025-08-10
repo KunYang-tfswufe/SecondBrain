@@ -11,14 +11,14 @@
             "id": "98f5eeedefcf0281",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "学习.md",
-                "mode": "source",
-                "source": false
+                "aFile": "学习.md",
+                "bFile": "学习.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "学习"
+              "icon": "diff",
+              "title": "Diff: 学习"
             }
           }
         ]
@@ -191,12 +191,12 @@
   },
   "active": "98f5eeedefcf0281",
   "lastOpenFiles": [
-    "书签.md",
-    "ArchLinux初始化.md",
-    "README.md",
-    "配置STM32开发环境(Arch).md",
     "学习.md",
+    "书签.md",
+    "README.md",
     "00 - Dashboard.md",
+    "ArchLinux初始化.md",
+    "配置STM32开发环境(Arch).md",
     "AI辅助探索知识清单.md",
     "快速学习清单.md",
     "浏览器扩展书签.md",
