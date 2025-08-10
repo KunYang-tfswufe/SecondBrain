@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b50a00c30def4620",
+        "id": "50e9c62791aa19a8",
         "type": "tabs",
         "children": [
           {
-            "id": "e1f569a41f5e60df",
+            "id": "5dce5ee083acf8b2",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "00 - Dashboard.md",
-                "bFile": "00 - Dashboard.md",
+                "aFile": "书签.md",
+                "bFile": "书签.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 00 - Dashboard"
+              "title": "Diff: 书签"
             }
           }
         ]
@@ -189,14 +189,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1f569a41f5e60df",
+  "active": "5dce5ee083acf8b2",
   "lastOpenFiles": [
-    "ArchLinux初始化.md",
-    "00 - Dashboard.md",
-    "README.md",
     "书签.md",
     "配置STM32开发环境(Arch).md",
+    "ArchLinux初始化.md",
+    "README.md",
     "学习.md",
+    "00 - Dashboard.md",
     "AI辅助探索知识清单.md",
     "快速学习清单.md",
     "浏览器扩展书签.md",
