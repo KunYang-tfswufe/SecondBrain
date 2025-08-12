@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25468d7248bf664b",
+        "id": "759655c960a30877",
         "type": "tabs",
         "children": [
           {
-            "id": "e1edf11144334f3f",
+            "id": "cbbb985bcc783bb0",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "书签.md",
+                "bFile": "书签.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: 书签"
             }
           }
         ]
@@ -189,14 +189,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1edf11144334f3f",
+  "active": "cbbb985bcc783bb0",
   "lastOpenFiles": [
-    "学习.md",
-    "电学.md",
     "书签.md",
     "README.md",
-    "配置STM32开发环境(Arch).md",
     "ArchLinux初始化.md",
+    "学习.md",
+    "电学.md",
+    "配置STM32开发环境(Arch).md",
     "00 - Dashboard.md",
     "().md",
     "AI辅助探索知识清单.md",
