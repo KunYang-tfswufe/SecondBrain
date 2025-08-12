@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "00 - Dashboard.md",
-                "bFile": "00 - Dashboard.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 00 - Dashboard"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -191,13 +191,13 @@
   },
   "active": "e1edf11144334f3f",
   "lastOpenFiles": [
-    "ArchLinux初始化.md",
-    "00 - Dashboard.md",
+    "学习.md",
     "电学.md",
     "书签.md",
-    "学习.md",
     "README.md",
     "配置STM32开发环境(Arch).md",
+    "ArchLinux初始化.md",
+    "00 - Dashboard.md",
     "().md",
     "AI辅助探索知识清单.md",
     "快速学习清单.md",
