@@ -82,6 +82,7 @@ makepkg -si
 | `obsidian`                    | https://obsidian.md/                                       |
 | `ollama-cuda`                 | https://github.com/ollama/ollama                           |
 | rpi-imager                    | https://github.com/raspberrypi/rpi-imager                  |
+| npm                           | https://www.npmjs.com/                                     |
 
 ### 一键生成命令 (pacman)
 
