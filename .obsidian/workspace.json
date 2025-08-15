@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1fa345f534aba16",
+        "id": "813cef24077aecae",
         "type": "tabs",
         "children": [
           {
-            "id": "d44dbc5e2b9689bb",
+            "id": "c71335e0007f1254",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "ArchLinux初始化.md",
-                "bFile": "ArchLinux初始化.md",
-                "aRef": ""
+                "file": "ArchLinux初始化.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: ArchLinux初始化"
+              "icon": "lucide-file",
+              "title": "ArchLinux初始化"
             }
           }
         ]
@@ -189,14 +189,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d44dbc5e2b9689bb",
+  "active": "c71335e0007f1254",
   "lastOpenFiles": [
-    "ArchLinux初始化.md",
     "书签.md",
-    "学习.md",
-    "电学.md",
-    "配置STM32开发环境(Arch).md",
     "README.md",
+    "配置STM32开发环境(Arch).md",
+    "电学.md",
+    "学习.md",
+    "ArchLinux初始化.md",
     "00 - Dashboard.md",
     "().md",
     "AI辅助探索知识清单.md",
