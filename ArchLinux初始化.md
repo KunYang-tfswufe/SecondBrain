@@ -72,7 +72,6 @@ makepkg -si
 | `prismlauncher`               | https://prismlauncher.org/                                 |
 | `dust`                        | https://github.com/bootandy/dust                           |
 | `okular`                      | https://apps.kde.org/okular/                               |
-| `copyq`                       | https://github.com/hluk/copyq                              |
 | `tigervnc`                    | https://www.tigervnc.org/                                  |
 | `docker`                      | https://www.docker.com/                                    |
 | `docker-compose`              | https://www.docker.com/                                    |
