@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ca0f373ae0cf6fb",
+        "id": "f908b0987d97569f",
         "type": "tabs",
         "children": [
           {
-            "id": "6c75982e55656130",
+            "id": "53a4e7d6ff67b0e3",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -189,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6c75982e55656130",
+  "active": "53a4e7d6ff67b0e3",
   "lastOpenFiles": [
     "ArchLinux初始化.md",
     "README.md",

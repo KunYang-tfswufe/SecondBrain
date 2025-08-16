@@ -84,6 +84,7 @@ makepkg -si
 | `rpi-imager`                  | https://github.com/raspberrypi/rpi-imager                  |
 | `npm`                         | https://www.npmjs.com/                                     |
 | `rclone`                      | https://github.com/rclone/rclone                           |
+| `noto-fonts-emoji`            | https://www.google.com/get/noto/                           |
 
 ### 一键生成命令 (pacman)
 
