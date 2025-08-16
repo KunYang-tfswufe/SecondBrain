@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f908b0987d97569f",
+        "id": "4f9047a8ed3b1299",
         "type": "tabs",
         "children": [
           {
-            "id": "53a4e7d6ff67b0e3",
+            "id": "064ae7d678bb9fb4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "ArchLinux初始化.md",
-                "bFile": "ArchLinux初始化.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: ArchLinux初始化"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -189,7 +185,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53a4e7d6ff67b0e3",
+  "active": "4fd83e0e5906e353",
   "lastOpenFiles": [
     "ArchLinux初始化.md",
     "README.md",
