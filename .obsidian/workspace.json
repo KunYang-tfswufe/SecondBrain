@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "电学.md",
-                "bFile": "电学.md",
+                "aFile": "ArchLinux初始化.md",
+                "bFile": "ArchLinux初始化.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 电学"
+              "title": "Diff: ArchLinux初始化"
             }
           }
         ]
@@ -189,10 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fd83e0e5906e353",
+  "active": "c71335e0007f1254",
   "lastOpenFiles": [
-    "电学.md",
     "ArchLinux初始化.md",
+    "电学.md",
     "学习.md",
     "书签.md",
     "README.md",

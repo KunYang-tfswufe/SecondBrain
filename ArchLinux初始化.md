@@ -80,8 +80,9 @@ makepkg -si
 | `edk2-ovmf`                   | https://github.com/tianocore/tianocore.github.io/wiki/OVMF |
 | `obsidian`                    | https://obsidian.md/                                       |
 | `ollama-cuda`                 | https://github.com/ollama/ollama                           |
-| rpi-imager                    | https://github.com/raspberrypi/rpi-imager                  |
-| npm                           | https://www.npmjs.com/                                     |
+| `rpi-imager`                  | https://github.com/raspberrypi/rpi-imager                  |
+| `npm`                         | https://www.npmjs.com/                                     |
+| `rclone`                      | https://github.com/rclone/rclone                           |
 
 ### 一键生成命令 (pacman)
 
