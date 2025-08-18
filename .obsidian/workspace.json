@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "414dbecdf9319563",
+        "id": "fca69cd300ca0634",
         "type": "tabs",
         "children": [
           {
-            "id": "67ec4943e744c7d7",
+            "id": "4bfd6afc9c454d2f",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "书签.md",
-                "bFile": "书签.md",
+                "aFile": "ArchLinux初始化.md",
+                "bFile": "ArchLinux初始化.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 书签"
+              "title": "Diff: ArchLinux初始化"
             }
           }
         ]
@@ -189,14 +189,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67ec4943e744c7d7",
+  "active": "4bfd6afc9c454d2f",
   "lastOpenFiles": [
-    "书签.md",
-    "00 - Dashboard.md",
     "ArchLinux初始化.md",
+    "00 - Dashboard.md",
     "电学.md",
     "学习.md",
+    "书签.md",
     "README.md",
+    "sing-box-docs/changelog.md",
     "配置STM32开发环境(Arch).md",
     "().md",
     "AI辅助探索知识清单.md",
@@ -217,7 +218,6 @@
     "Templates/Arch Packages Template.md.md",
     "QEMU虚拟机.md",
     "HTTP协议.md",
-    "MyBatis.md",
     "assets/progit.pdf",
     "assets/kiss.kdbx",
     "assets/basic.tar",

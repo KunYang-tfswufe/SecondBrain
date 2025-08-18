@@ -54,6 +54,7 @@ makepkg -si
 | `ntfs-3g`                     | https://www.tuxera.com/community/open-source-ntfs-3g/      |
 | `zellij`                      | https://archlinux.org/packages/extra/x86_64/zellij/        |
 | `fzf`                         | https://github.com/junegunn/fzf                            |
+| `jq`                          | https://jqlang.github.io/jq/                               |
 | `zoxide`                      | https://github.com/ajeetdsouza/zoxide                      |
 | `ripgrep`                     | https://github.com/BurntSushi/ripgrep                      |
 | `bat`                         | https://github.com/sharkdp/bat                             |
