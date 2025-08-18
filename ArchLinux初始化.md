@@ -125,11 +125,12 @@ dv.paragraph(`\n\n\`\`\`bash\n# 此命令由 Dataview 自动生成，与上方�
 
 ### AUR 软件包清单
 
-| 包名 (Package Name) | Upstream URL                            |
-| ----------------- | --------------------------------------- |
-| `cursor-bin`      | https://www.cursor.com/                 |
-| `envycontrol`     | https://github.com/bayasdev/envycontrol |
-| `espanso-wayland` | https://github.com/espanso              |
+| 包名 (Package Name)  | Upstream URL                              |
+| ------------------ | ----------------------------------------- |
+| `cursor-bin`       | https://www.cursor.com/                   |
+| `envycontrol`      | https://github.com/bayasdev/envycontrol   |
+| `espanso-wayland`  | https://github.com/espanso                |
+| `subconverter-bin` | https://github.com/tindy2013/subconverter |
 
 ### 一键生成命令 (yay)
 

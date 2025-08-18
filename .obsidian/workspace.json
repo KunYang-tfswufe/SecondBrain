@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fca69cd300ca0634",
+        "id": "6eeea92d817a6d63",
         "type": "tabs",
         "children": [
           {
-            "id": "4bfd6afc9c454d2f",
+            "id": "e5b7afd2565e5c33",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "书签.md",
-                "bFile": "书签.md",
+                "aFile": "ArchLinux初始化.md",
+                "bFile": "ArchLinux初始化.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 书签"
+              "title": "Diff: ArchLinux初始化"
             }
           }
         ]
@@ -190,13 +190,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bfd6afc9c454d2f",
+  "active": "e5b7afd2565e5c33",
   "lastOpenFiles": [
+    "ArchLinux初始化.md",
     "书签.md",
     "学习.md",
     "电学.md",
     "README.md",
-    "ArchLinux初始化.md",
     "00 - Dashboard.md",
     "sing-box-docs/changelog.md",
     "配置STM32开发环境(Arch).md",
