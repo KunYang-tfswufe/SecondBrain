@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "ArchLinux初始化.md",
-                "bFile": "ArchLinux初始化.md",
+                "aFile": "书签.md",
+                "bFile": "书签.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: ArchLinux初始化"
+              "title": "Diff: 书签"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,12 +192,12 @@
   },
   "active": "4bfd6afc9c454d2f",
   "lastOpenFiles": [
+    "书签.md",
+    "学习.md",
+    "电学.md",
+    "README.md",
     "ArchLinux初始化.md",
     "00 - Dashboard.md",
-    "电学.md",
-    "学习.md",
-    "书签.md",
-    "README.md",
     "sing-box-docs/changelog.md",
     "配置STM32开发环境(Arch).md",
     "().md",

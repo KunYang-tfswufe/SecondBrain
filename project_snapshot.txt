@@ -1,0 +1,462 @@
+# 这是一个由脚本在 Mon Aug 18 04:32:09 AM UTC 2025 生成的项目快照
+----------------------------------------------------
+
+--- START OF FILE: ./配置STM32开发环境(Arch).md ---
+
+ST 官网的软件包（如 CubeIDE, CubeProg）需要登录才能下载，因此 `yay` 无法自动完成。必须手动下载安装包，再进行安装。
+
+> [!WARNING] 核心问题排查
+> *   **`未找到文件 (not found)`**: 说明你忘了手动下载或放错位置。
+> *   **`校验失败 (FAILED)`**: 说明你下载的**版本**与 AUR 包不匹配。请删除错误文件，重新下载 `PKGBUILD` 中指定的版本。
+
+---
+
+### 1. STM32CubeIDE (IDE)
+
+**依赖**: `stlink-server` 也需要手动下载。
+
+**步骤**:
+
+1.  **准备文件**:
+    *   **STM32CubeIDE**: 从 [st.com/stm32cubeide](https://www.st.com/en/development-tools/stm32cubeide.html) 下载 `.zip` 包，放入 `~/.cache/yay/stm32cubeide/`。
+    *   **ST-LINK Server**: 从 [st.com/st-link-server](https://www.st.com/en/development-tools/st-link-server.html) 下载 `.zip` 包，放入 `~/.cache/yay/stlink-server/`。
+      > [!TIP]
+      > 如果目录不存在，可先运行一次安装命令让它失败并自动创建。
+
+2.  **安装**:
+    ```bash
+    yay -S stm32cubeide
+    ```
+
+3.  **运行修复 (Wayland)**:
+    *   若启动或显示异常，编辑桌面文件 `sudo nano /usr/share/applications/stm32cubeide.desktop`。
+    *   切换 `Exec=` 命令的注释状态，然后运行 `sudo update-desktop-database` 应用更改。
+
+---
+
+### 2. STM32CubeProgrammer (烧录工具)
+
+**步骤**:
+
+1.  **准备文件**:
+    *   从 [st.com/stm32cubeprog](https://www.st.com/en/development-tools/stm32cubeprog.html) 下载与 AUR 包版本匹配的 `.zip` 包。
+    *   将其重命名为 `yay` 需要的文件名 (如 `en.stm32cubeprg-lin-v....zip`)，并放入 `~/.cache/yay/stm32cubeprog/`。
+
+2.  **安装**:
+    ```bash
+    yay -S stm32cubeprog
+    ```
+--- END OF FILE: ./配置STM32开发环境(Arch).md ---
+
+
+
+--- START OF FILE: ./书签.md ---
+
+
+| URL                                                                                  | Description                 |
+| ------------------------------------------------------------------------------------ | --------------------------- |
+| https://wokwi.com                                                                    | 在线电路与固件仿真                   |
+| https://mermaidchart.com/play                                                        | Mermaid 在线编辑器与预览            |
+| https://alternativeto.net                                                            | 查找软件替代品与用户评价                |
+| https://convertio.co                                                                 | 格式在线文件转换                    |
+| https://www.befunky.com/create                                                       | 在线图片编辑与拼图                   |
+| https://asoftmurmur.com                                                              | 白噪音/环境音                     |
+| https://linshiguge.com                                                               | 临时邮箱（一次性邮箱）                 |
+| https://mohmal.com/zh/inbox                                                          | 临时邮箱服务（网页收件）                |
+| https://sms-activate.org                                                             | 虚拟号码接码平台                    |
+| https://www.yeka.ai                                                                  | 野卡-虚拟信用卡服务                  |
+| https://artificialanalysis.ai                                                        | AI 模型排行榜与对比                 |
+| https://civitai.com                                                                  | Stable Diffusion 模型/LoRA 社区 |
+| https://scamalytics.com                                                              | IP 风险评分与欺诈检测                |
+| https://s3.amazonaws.com/psiphon/web/u1dy-me41-s9yv/en/download.html                 | Psiphon（赛风）下载               |
+| https://proxy.888005.xyz                                                             | 代理检测                        |
+| https://lianjiajichang.net                                                           | lianjia机场                   |
+| https://mitce.net                                                                    | mitce机场                     |
+| https://w3schools.com                                                                | Web 开发教程与示例                 |
+| https://freecodecamp.org                                                             | 免费编程课程与项目                   |
+| https://scratch.mit.edu                                                              | 少女图形化编程                     |
+| https://www.tinkercad.com                                                            | 在线 3D 建模与电路设计               |
+| https://www.falstad.com/circuit/                                                     | 交互式电路仿真与可视化                 |
+| https://minecraft.wiki                                                               | Minecraft 维基                |
+| https://www.gaminik.net                                                              | 屏幕实时翻译器                     |
+| https://web.telegram.org/a                                                           | Telegram 网页版                |
+| https://sorryios.com                                                                 | 代订阅服务与共享订阅账户平台              |
+| https://shop.edumails.org                                                            | 教育邮箱购买                      |
+| https://www.downloadnth.com/download.html                                            | 软件下载站                       |
+| https://xn--yfrp36ea9901a.com                                                        | gougou机场                    |
+| https://github.com/EvanLi/Github-Ranking                                             | GitHub 仓库/开发者排名             |
+| https://github.com/FabricMC                                                          | Minecraft Modding 工具链       |
+| https://github.com/GTNewHorizons                                                     | Minecraft GT New Horizons   |
+| https://github.com/microsoft/playwright                                              | 浏览器自动化与端到端测试                |
+| https://github.com/openwrt                                                           | 路由器/嵌入式 Linux 系统            |
+| https://github.com/massgravel/Microsoft-Activation-Scripts                           | Windows/Office 激活脚本（MAS）    |
+| https://github.com/zyddnys/manga-image-translator                                    | 离线漫画 OCR 翻译工具               |
+| https://github.com/google-gemini/gemini-cli                                          | Gemini 命令行客户端               |
+| https://addons.mozilla.org/firefox/addon/cliget                                      | 复制 cURL/wget 下载命令           |
+| https://addons.mozilla.org/firefox/addon/darkreader                                  | 全站暗色模式                      |
+| https://addons.mozilla.org/firefox/addon/automa                                      | 浏览器自动化工作流工具                 |
+| https://addons.mozilla.org/firefox/addon/violentmonkey                               | 用户脚本管理器（Tampermonkey 替代）    |
+| https://addons.mozilla.org/firefox/addon/single-file                                 | 将网页打包为单一 HTML               |
+| https://addons.mozilla.org/en-US/firefox/addon/%E6%B5%81%E7%95%85%E9%98%85%E8%AF%BB/ | 流畅阅读(沉浸式翻译开源版本)             |
+| https://addons.mozilla.org/firefox/addon/youtube-recommended-videos/                 | 隐藏YouTube分散注意力的元素           |
+| https://addons.mozilla.org/firefox/addon/adguard-adblocker/                          | 强大的广告拦截器                    |
+
+--- END OF FILE: ./书签.md ---
+
+
+
+--- START OF FILE: ./电学.md ---
+
+电动势是电源理想的总电压,电压=电位差=电势差,电压降是电势差的一个特殊情况
+Terminal(端子),Com口(公共口),触点都可以理解为接线柱或者连接点
+--- END OF FILE: ./电学.md ---
+
+
+
+--- START OF FILE: ./00 - Dashboard.md ---
+
+## To-do List
+
+#### Running
+- [ ] 使用 Github Copilot 来理解开源项目
+#### Ready
+- [ ] 整理桌面文件
+#### Waiting
+- [ ] **Docker**
+- [ ] **macOS** [基础教程](https://edu.gcfglobal.org/en/macosbasics)
+- [ ] **Tinkercad** [补完视频教程](https://bilibili.com/video/BV1fK4y187jE?p=10)
+- [ ] **Email 基础** [学习](https://edu.gcfglobal.org/en/topics/emailbasics)
+#### Done
+- [x] 完成天府论坛报告
+- [x] 最终确定毕业项目题目 (等待 @导师 回复确认)
+
+## The Books
+[[学习]]
+[[书签]]
+[[ArchLinux初始化]]
+[[电学]]
+--- END OF FILE: ./00 - Dashboard.md ---
+
+
+
+--- START OF FILE: ./README.md ---
+
+# SecondBrain.
+
+--- END OF FILE: ./README.md ---
+
+
+
+--- START OF FILE: ./学习.md ---
+
+## AI辅助探索知识清单
+
+| 主题              | 备注                                 | URL   |
+| --------------- | ---------------------------------- | ----- |
+| 独立生活指南(洛杉矶版)    | 请帮我制作一在美国洛杉矶的独立生活指南                | AnyAI |
+| 基础医学常识          | 请帮我科普医学常识,作为普通人的必备知识,尤其是药品相关的      | AnyAI |
+| 安全常识            | 请帮我安全常识,作为普通人的必备知识,尤其是药品相关的        | AnyAI |
+| 防骗/科普/智商税/投资常识  |                                    | AnyAI |
+| 虚拟信用卡           |                                    | AnyAI |
+| USDT支付          |                                    | AnyAI |
+| 理解经度与纬度         |                                    | AnyAI |
+| Java 程序员测试与薪资评估 | 请出一些java程序员的测试题评估我现在的薪资,目标城市中国成都   | AnyAI |
+| dotfiles 配置讲解   |                                    | AnyAI |
+| 团队协作模拟          | 在三台电脑的 VSCode 中模拟 Git 团队协作（不使用命令行） | AnyAI |
+| 高情商处理场景         | 场景列举                               | AnyAI |
+| 日常工具及其使用方法      | 工具列举                               | AnyAI |
+| Minecraft 红石电路  | 教程请求                               | AnyAI |
+| Minecraft 命令方块  | 教程请求                               | AnyAI |
+| 生活中的物理化学现象      | 现象列举                               | AnyAI |
+| 化学物质列举          | 常见物质的性质、用途及危害                      | AnyAI |
+| 文件后缀科普          | 常见文件后缀及命名内涵                        | AnyAI |
+| 公司管理            | 请你教我公司运作原理和公司管理(我现在是底层程序员想往上爬)     |       |
+## 快速学习
+
+| 主题                         | 备注  | URL                                                        |
+| -------------------------- | --- | ---------------------------------------------------------- |
+| HTTP协议                     |     |                                                            |
+| QEMU虚拟机                    |     |                                                            |
+| Flask                      |     | https://flask.palletsprojects.com/en/stable/quickstart/    |
+| MyBatis                    |     |                                                            |
+| Gradle                     |     |                                                            |
+| 浏览器扩展开发                    |     |                                                            |
+| 机器学习                       |     | https://www.tensorflow.org/tutorials/quickstart/beginner   |
+| Automa                     |     |                                                            |
+| MCP                        |     | https://modelcontextprotocol.io/quickstart                 |
+| 网络爬虫                       |     | https://requests.readthedocs.io/en/latest/user/quickstart/ |
+| 自动化脚本                      |     |                                                            |
+| 逆向工程                       |     | https://frida.re/docs/quickstart/                          |
+| 渗透测试                       |     |                                                            |
+| 越狱与Root                    |     |                                                            |
+| 代理上网                       |     |                                                            |
+| 汇编                         |     |                                                            |
+| mihomo-core                |     |                                                            |
+| 网络漏洞靶场                     |     |                                                            |
+| ArchLinuxInstall           |     | https://wiki.archlinux.org/title/Installation_guide        |
+| Termux                     |     |                                                            |
+| GIMP                       |     |                                                            |
+| Minecraft Modding (Fabric) |     |                                                            |
+| Unity                      |     |                                                            |
+| GitHub                     |     | https://docs.github.com/get-started/quickstart/hello-world |
+| Git                        |     | https://learngitbranching.js.org                           |
+## 长期学习
+
+| 主题              | 备注  | URL                                                      |
+| --------------- | --- | -------------------------------------------------------- |
+| Linux内核开发       |     |                                                          |
+| 数据结构与算法         |     |                                                          |
+| 操作系统            |     |                                                          |
+| 计算机网络           |     |                                                          |
+| 计算机组成原理         |     |                                                          |
+| 设计模式            |     |                                                          |
+| 面向对象编程 (OOP)    |     |                                                          |
+| 数据库 (SQL/NoSQL) |     |                                                          |
+| 数学              |     |                                                          |
+| 物理              |     |                                                          |
+| 化学              |     |                                                          |
+| 生物              |     |                                                          |
+| 英语              |     |                                                          |
+| 逻辑学             |     |                                                          |
+| 哲学              |     |                                                          |
+| 经济学             |     |                                                          |
+| 心理学             |     |                                                          |
+| 历史              |     |                                                          |
+| Rust            |     | https://doc.rust-lang.org/book                           |
+| 梦幻西游搬砖          |     | https://item.taobao.com/item.htm?id=680103533549         |
+| 奶块搬砖            |     |                                                          |
+| 制作一个简易计算机       |     |                                                          |
+| 乐乐课堂            |     | https://pan.baidu.com/s/1Gltyjb9UaBmG7RWEhHupRw?pwd=6z4c |
+--- END OF FILE: ./学习.md ---
+
+
+
+--- START OF FILE: ./ArchLinux初始化.md ---
+
+### 目录
+- [前置准备](#前置准备)
+- [安装 AUR 助手 (yay)](#安装-aur-助手-yay)
+- [官方仓库软件包清单](#官方仓库软件包清单)
+- [一键生成命令 (pacman)](#一键生成命令-pacman)
+- [AUR 软件包清单](#aur-软件包清单)
+- [一键生成命令 (yay)](#一键生成命令-yay)
+- [初始化与服务](#初始化与服务)
+- [可选的 Docker 应用](#可选的-docker-应用)
+- [环境配置](#环境配置)
+- [快速验证](#快速验证)
+
+### 前置准备
+> [!TIP] 建议
+> - 先同步镜像并安装构建工具：
+>   - `sudo pacman -Syu`
+>   - `sudo pacman -S --needed git base-devel`
+> - Flatpak 建议添加 Flathub 源：
+>   - `flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
+
+### 安装 AUR 助手 (yay)
+
+```bash
+# https://github.com/Jguer/yay/
+sudo pacman -S --needed git base-devel
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+```
+
+### 官方仓库软件包清单
+
+> [!TIP] 如何使用
+> - **维护**：要增删软件，只需在此表格中添加或删除行。
+
+| 包名 (Package Name)             | Upstream URL                                               |
+| ----------------------------- | ---------------------------------------------------------- |
+| `neovim`                      | https://neovim.io/                                         |
+| `xdg-desktop-portal-hyprland` | https://github.com/hyprwm/xdg-desktop-portal-hyprland      |
+| `xdg-desktop-portal-gtk`      | https://github.com/flatpak/xdg-desktop-portal-gtk          |
+| `waybar`                      | https://github.com/Alexays/Waybar/                         |
+| `grim`                        | https://gitlab.freedesktop.org/emersion/grim               |
+| `slurp`                       | https://github.com/emersion/slurp                          |
+| `wl-clipboard`                | https://github.com/bugaevc/wl-clipboard                    |
+| `noto-fonts-cjk`              | https://www.google.com/get/noto/                           |
+| `ttf-font-awesome`            | https://fontawesome.com/                                   |
+| `ttf-jetbrains-mono-nerd`     | https://github.com/ryanoasis/nerd-fonts                    |
+| `fcitx5-im`                   | https://github.com/fcitx                                   |
+| `fcitx5-rime`                 | https://github.com/fcitx/fcitx5-rime                       |
+| `nvidia-utils`                | http://www.nvidia.com/                                     |
+| `lib32-nvidia-utils`          | http://www.nvidia.com/                                     |
+| `mesa-utils`                  | https://www.mesa3d.org/                                    |
+| ``lib32-mesa-utils``          | http://mesa3d.sourceforge.net/                             |
+| `ntfs-3g`                     | https://www.tuxera.com/community/open-source-ntfs-3g/      |
+| `zellij`                      | https://archlinux.org/packages/extra/x86_64/zellij/        |
+| `fzf`                         | https://github.com/junegunn/fzf                            |
+| `jq`                          | https://jqlang.github.io/jq/                               |
+| `zoxide`                      | https://github.com/ajeetdsouza/zoxide                      |
+| `ripgrep`                     | https://github.com/BurntSushi/ripgrep                      |
+| `bat`                         | https://github.com/sharkdp/bat                             |
+| `lazygit`                     | https://github.com/jesseduffield/lazygit                   |
+| `firefox`                     | https://www.mozilla.org/firefox/                           |
+| `keepassxc`                   | https://keepassxc.org/                                     |
+| `7zip`                        | https://www.7-zip.org/                                     |
+| `flatpak`                     | https://flatpak.org/                                       |
+| `bottom`                      | https://github.com/ClementTsang/bottom                     |
+| `wireshark-cli`               | https://www.wireshark.org/                                 |
+| `github-cli`                  | https://github.com/cli/cli                                 |
+| `mpv`                         | https://mpv.io/                                            |
+| `obs-studio`                  | https://obsproject.com/                                    |
+| `yt-dlp`                      | https://github.com/yt-dlp/yt-dlp                           |
+| `rustscan`                    | https://github.com/rustscan/RustScan                       |
+| `scrcpy`                      | https://github.com/Genymobile/scrcpy                       |
+| `prismlauncher`               | https://prismlauncher.org/                                 |
+| `dust`                        | https://github.com/bootandy/dust                           |
+| `okular`                      | https://apps.kde.org/okular/                               |
+| `tigervnc`                    | https://www.tigervnc.org/                                  |
+| `docker`                      | https://www.docker.com/                                    |
+| `docker-compose`              | https://www.docker.com/                                    |
+| `fish`                        | https://fishshell.com/                                     |
+| `qemu-full`                   | https://www.qemu.org/                                      |
+| `edk2-ovmf`                   | https://github.com/tianocore/tianocore.github.io/wiki/OVMF |
+| `obsidian`                    | https://obsidian.md/                                       |
+| `ollama-cuda`                 | https://github.com/ollama/ollama                           |
+| `rpi-imager`                  | https://github.com/raspberrypi/rpi-imager                  |
+| `npm`                         | https://www.npmjs.com/                                     |
+| `rclone`                      | https://github.com/rclone/rclone                           |
+| `noto-fonts-emoji`            | https://www.google.com/get/noto/                           |
+
+### 一键生成命令 (pacman)
+
+```dataviewjs
+// 解析“官方仓库软件包清单”表格，生成 pacman 安装命令
+const file = dv.current().file;
+const content = await dv.io.load(file.path);
+const lines = content.split('\n');
+
+function collectPackagesAfterHeading(headingText) {
+  const startIdx = lines.findIndex(l => l.trim().startsWith(headingText));
+  if (startIdx === -1) return [];
+  let inTable = false;
+  const pkgs = [];
+  for (let i = startIdx + 1; i < lines.length; i++) {
+    const line = lines[i].trim();
+    if (!inTable && line.startsWith('| ---')) { inTable = true; continue; }
+    if (inTable) {
+      if (!line.startsWith('|')) break; // 表格结束
+      const parts = line.split('|').map(s => s.trim());
+      if (parts.length > 2 && parts[1]) {
+        const pkg = parts[1].replace(/`/g, '');
+        if (pkg) pkgs.push(pkg);
+      }
+    }
+    // 若遇到新的小节标题则提前终止
+    if (!inTable && line.startsWith('### ')) break;
+  }
+  return pkgs;
+}
+
+const packages = collectPackagesAfterHeading('### 官方仓库软件包清单');
+const command = `sudo pacman -Syu --needed ${packages.join(' ')}`;
+
+dv.paragraph(`\n\n\`\`\`bash\n# 此命令由 Dataview 自动生成，与上方表格保持同步\n${command}\n\`\`\`\n`);
+```
+
+### AUR 软件包清单
+
+| 包名 (Package Name) | Upstream URL                            |
+| ----------------- | --------------------------------------- |
+| `cursor-bin`      | https://www.cursor.com/                 |
+| `envycontrol`     | https://github.com/bayasdev/envycontrol |
+| `espanso-wayland` | https://github.com/espanso              |
+
+### 一键生成命令 (yay)
+
+```dataviewjs
+// 解析“AUR 软件包清单”表格，生成 yay 安装命令
+const file2 = dv.current().file;
+const content2 = await dv.io.load(file2.path);
+const lines2 = content2.split('\n');
+
+function collectAUR() {
+  const startIdx = lines2.findIndex(l => l.trim().startsWith('### AUR 软件包清单'));
+  if (startIdx === -1) return [];
+  let inTable = false;
+  const pkgs = [];
+  for (let i = startIdx + 1; i < lines2.length; i++) {
+    const line = lines2[i].trim();
+    if (!inTable && line.startsWith('| ---')) { inTable = true; continue; }
+    if (inTable) {
+      if (!line.startsWith('|')) break;
+      const parts = line.split('|').map(s => s.trim());
+      if (parts.length > 2 && parts[1]) {
+        const pkg = parts[1].replace(/`/g, '');
+        if (pkg) pkgs.push(pkg);
+      }
+    }
+    if (!inTable && line.startsWith('### ')) break;
+  }
+  return pkgs;
+}
+
+const aurPkgs = collectAUR();
+const yayCmd = `yay -Syu --needed ${aurPkgs.join(' ')}`;
+
+dv.paragraph(`\n\n\`\`\`bash\n# 此命令由 Dataview 自动生成，与上方表格保持同步\n${yayCmd}\n\`\`\`\n`);
+```
+
+### 初始化与服务
+
+- [ ] Docker：开机自启并加入用户组
+- [ ] Espanso：注册并启动服务
+- [ ] Ollama：开机自启
+- [ ] Fish：设置为默认 Shell
+
+```bash
+# Docker
+sudo systemctl enable --now docker
+sudo usermod -aG docker $USER
+
+# Espanso
+espanso service register
+espanso service start
+
+# Ollama
+sudo systemctl enable --now ollama
+
+# 默认 Shell 切换为 Fish
+chsh -s /usr/bin/fish
+```
+
+> [!NOTE]
+> 将用户加入 `docker` 组后需重新登录（或 `newgrp docker`）才会生效。
+> 若使用 Compose 插件，也可安装 `docker-compose-plugin`。
+
+### 可选的 Docker 应用
+```bash
+# AnythingLLM
+docker pull mintplexlabs/anythingllm
+docker run -d --restart always -p 3001:3001 mintplexlabs/anythingllm
+
+# Open WebUI
+docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway \
+  -v open-webui:/app/backend/data --name open-webui --restart always \
+  ghcr.io/open-webui/open-webui:main
+
+# rembg server
+docker run -d --restart always -p 7000:7000 danielgatis/rembg s --host 0.0.0.0 --port 7000
+```
+
+### 环境配置
+[[配置STM32开发环境(Arch).md]]
+
+### 快速验证
+```bash
+nvidia-smi || true
+docker ps
+espanso --version || true
+yay --version
+ollama --version || true
+fish --version
+```
+
+--- END OF FILE: ./ArchLinux初始化.md ---
+
+
+
