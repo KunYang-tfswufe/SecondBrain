@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "配置STM32开发环境(Arch).md",
+                "file": "学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "配置STM32开发环境(Arch)"
+              "title": "学习"
             }
           }
         ]
@@ -192,13 +192,14 @@
   },
   "active": "183f4a3806d1f08d",
   "lastOpenFiles": [
-    "电学.md",
-    "学习.md",
-    "书签.md",
-    "00 - Dashboard.md",
     "README.md",
-    "ArchLinux初始化.md",
+    "书签.md",
+    "Untitled.base",
+    "00 - Dashboard.md",
     "配置STM32开发环境(Arch).md",
+    "学习.md",
+    "电学.md",
+    "ArchLinux初始化.md",
     "sing-box-docs/changelog.md",
     "().md",
     "AI辅助探索知识清单.md",
@@ -218,7 +219,6 @@
     "Pacman 软件包.md",
     "Templates/Arch Packages Template.md.md",
     "QEMU虚拟机.md",
-    "HTTP协议.md",
     "assets/progit.pdf",
     "assets/kiss.kdbx",
     "assets/basic.tar",
@@ -227,7 +227,6 @@
     "assets/CalculusEarlyTranscendentals.7z",
     "assets/AttentionIsAllYouNeed.pdf",
     "assets",
-    "MyBlog/DockerDeepDive.pdf",
     "未命名.canvas"
   ]
 }
