@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArchLinux初始化.md",
+                "file": "配置STM32开发环境(Arch).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ArchLinux初始化"
+              "title": "配置STM32开发环境(Arch)"
             }
           }
         ]
@@ -192,14 +192,14 @@
   },
   "active": "183f4a3806d1f08d",
   "lastOpenFiles": [
-    "README.md",
     "电学.md",
     "学习.md",
     "书签.md",
     "00 - Dashboard.md",
+    "README.md",
     "ArchLinux初始化.md",
-    "sing-box-docs/changelog.md",
     "配置STM32开发环境(Arch).md",
+    "sing-box-docs/changelog.md",
     "().md",
     "AI辅助探索知识清单.md",
     "快速学习清单.md",
