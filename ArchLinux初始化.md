@@ -86,6 +86,7 @@ makepkg -si
 | `npm`                         | https://www.npmjs.com/                                     |
 | `rclone`                      | https://github.com/rclone/rclone                           |
 | `noto-fonts-emoji`            | https://www.google.com/get/noto/                           |
+| `swaybg`                      | https://github.com/swaywm/swaybg                           |
 
 ### 一键生成命令 (pacman)
 
