@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3c8902eba6c4f39",
+        "id": "f9df477f687fad7f",
         "type": "tabs",
         "children": [
           {
-            "id": "183f4a3806d1f08d",
+            "id": "02f64557da0518d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "学习"
+              "title": "New tab"
             }
           }
         ]
@@ -190,16 +186,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "183f4a3806d1f08d",
+  "active": "02f64557da0518d9",
   "lastOpenFiles": [
-    "README.md",
-    "书签.md",
-    "Untitled.base",
+    "ArchLinux初始化.md",
     "00 - Dashboard.md",
     "配置STM32开发环境(Arch).md",
     "学习.md",
     "电学.md",
-    "ArchLinux初始化.md",
+    "书签.md",
+    "README.md",
+    "Untitled.base",
     "sing-box-docs/changelog.md",
     "().md",
     "AI辅助探索知识清单.md",
