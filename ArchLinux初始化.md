@@ -87,6 +87,7 @@ makepkg -si
 | `rclone`                      | https://github.com/rclone/rclone                           |
 | `noto-fonts-emoji`            | https://www.google.com/get/noto/                           |
 | `swaybg`                      | https://github.com/swaywm/swaybg                           |
+| `minicom`                     | https://salsa.debian.org/minicom-team/minicom              |
 
 ### 一键生成命令 (pacman)
 
