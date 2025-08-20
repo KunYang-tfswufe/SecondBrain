@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9df477f687fad7f",
+        "id": "236d9dc1caf78cb4",
         "type": "tabs",
         "children": [
           {
-            "id": "02f64557da0518d9",
+            "id": "2e0969f43b4ddd10",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "电学.md",
-                "bFile": "电学.md",
-                "aRef": ""
+                "file": "00 - Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 电学"
+              "icon": "lucide-file",
+              "title": "00 - Dashboard"
             }
           }
         ]
@@ -190,7 +190,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02f64557da0518d9",
+  "active": "2e0969f43b4ddd10",
   "lastOpenFiles": [
     "电学.md",
     "学习.md",
