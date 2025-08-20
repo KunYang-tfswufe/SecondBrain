@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "236d9dc1caf78cb4",
+        "id": "c85d4df2d5ba1b9b",
         "type": "tabs",
         "children": [
           {
-            "id": "2e0969f43b4ddd10",
+            "id": "ec789a1aa66d6ca9",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "ArchLinux初始化.md",
-                "bFile": "ArchLinux初始化.md",
+                "aFile": "书签.md",
+                "bFile": "书签.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: ArchLinux初始化"
+              "title": "Diff: 书签"
             }
           }
         ]
@@ -190,14 +190,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e0969f43b4ddd10",
+  "active": "ec789a1aa66d6ca9",
   "lastOpenFiles": [
-    "ArchLinux初始化.md",
-    "学习.md",
     "书签.md",
-    "配置STM32开发环境(Arch).md",
-    "00 - Dashboard.md",
+    "project_snapshot.txt",
     "README.md",
+    "ArchLinux初始化.md",
+    "00 - Dashboard.md",
+    "学习.md",
+    "配置STM32开发环境(Arch).md",
     "电学.md",
     "Untitled.base",
     "sing-box-docs/changelog.md",
@@ -226,7 +227,6 @@
     "assets/DockerDeepDive.pdf",
     "assets/CalculusEarlyTranscendentals.7z",
     "assets/AttentionIsAllYouNeed.pdf",
-    "assets",
     "未命名.canvas"
   ]
 }
