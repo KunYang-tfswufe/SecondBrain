@@ -11,10 +11,14 @@
             "id": "02f64557da0518d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "电学.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "电学"
             }
           }
         ]
@@ -188,10 +192,10 @@
   },
   "active": "02f64557da0518d9",
   "lastOpenFiles": [
+    "学习.md",
     "ArchLinux初始化.md",
     "00 - Dashboard.md",
     "配置STM32开发环境(Arch).md",
-    "学习.md",
     "电学.md",
     "书签.md",
     "README.md",
