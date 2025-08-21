@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "书签.md",
-                "bFile": "书签.md",
+                "aFile": "00 - Dashboard.md",
+                "bFile": "00 - Dashboard.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 书签"
+              "title": "Diff: 00 - Dashboard"
             }
           }
         ]
@@ -192,13 +192,13 @@
   },
   "active": "0d9ec03ce2f936be",
   "lastOpenFiles": [
+    "00 - Dashboard.md",
+    "配置STM32开发环境(Arch).md",
+    "学习.md",
+    "ArchLinux初始化.md",
+    "project_snapshot.txt",
     "书签.md",
     "README.md",
-    "ArchLinux初始化.md",
-    "00 - Dashboard.md",
-    "project_snapshot.txt",
-    "学习.md",
-    "配置STM32开发环境(Arch).md",
     "电学.md",
     "Untitled.base",
     "sing-box-docs/changelog.md",

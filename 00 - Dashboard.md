@@ -2,6 +2,7 @@
 
 #### Running
 - [ ] 使用 Github Copilot 来理解开源项目
+- [ ] 刷Leetcode,80简单题,100道中等题,20道困难题,总计200道
 #### Ready
 - [ ] 整理桌面文件
 #### Waiting
