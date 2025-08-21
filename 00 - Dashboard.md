@@ -23,7 +23,7 @@
     - [ ] 掌握访达 (Finder) 的文件管理
     - [ ] 学习系统设置和 App 安装/卸载
     - [ ] 了解调度中心 (Mission Control) 和聚焦搜索 (Spotlight)
-- [ ] **学习 Tinkercad [视频教程](https://bilibili.com/video/BV1fK4y187jE?p=10)**
+- [ ] **学习 Tinkercad [教程](https://bilibili.com/video/BV1fK4y187jE?p=10)**
     - [ ] 掌握基本界面和视图操作
     - [ ] 学习创建和编辑基本几何体
     - [ ] 练习对齐、组合和挖空操作
