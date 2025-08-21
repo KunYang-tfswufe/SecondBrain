@@ -15,7 +15,7 @@
               "state": {
                 "file": "00 - Dashboard.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "00 - Dashboard"
@@ -190,7 +190,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fd83e0e5906e353",
+  "active": "0d9ec03ce2f936be",
   "lastOpenFiles": [
     "00 - Dashboard.md",
     "书签.md",
