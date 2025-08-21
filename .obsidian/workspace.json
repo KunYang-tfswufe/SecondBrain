@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,13 +190,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d9ec03ce2f936be",
+  "active": "4fd83e0e5906e353",
   "lastOpenFiles": [
-    "project_snapshot.txt",
-    "学习.md",
-    "书签.md",
-    "README.md",
     "00 - Dashboard.md",
+    "书签.md",
+    "学习.md",
+    "project_snapshot.txt",
+    "README.md",
     "配置STM32开发环境(Arch).md",
     "ArchLinux初始化.md",
     "电学.md",
