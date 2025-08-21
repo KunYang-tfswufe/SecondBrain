@@ -11,14 +11,14 @@
             "id": "0d9ec03ce2f936be",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "00 - Dashboard.md",
-                "bFile": "00 - Dashboard.md",
-                "aRef": ""
+                "file": "书签.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 00 - Dashboard"
+              "icon": "lucide-file",
+              "title": "书签"
             }
           }
         ]
@@ -192,11 +192,11 @@
   },
   "active": "0d9ec03ce2f936be",
   "lastOpenFiles": [
+    "README.md",
     "00 - Dashboard.md",
     "配置STM32开发环境(Arch).md",
     "学习.md",
     "书签.md",
-    "README.md",
     "ArchLinux初始化.md",
     "project_snapshot.txt",
     "电学.md",
