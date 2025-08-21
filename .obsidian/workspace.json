@@ -15,7 +15,7 @@
               "state": {
                 "file": "00 - Dashboard.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "00 - Dashboard"
