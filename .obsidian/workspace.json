@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c85d4df2d5ba1b9b",
+        "id": "ca90c6249773e8f1",
         "type": "tabs",
         "children": [
           {
-            "id": "ec789a1aa66d6ca9",
+            "id": "0d9ec03ce2f936be",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "书签.md",
-                "bFile": "书签.md",
-                "aRef": ""
+                "file": "书签.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 书签"
+              "icon": "lucide-file",
+              "title": "书签"
             }
           }
         ]
@@ -190,13 +190,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec789a1aa66d6ca9",
+  "active": "0d9ec03ce2f936be",
   "lastOpenFiles": [
-    "书签.md",
-    "project_snapshot.txt",
     "README.md",
+    "书签.md",
     "ArchLinux初始化.md",
     "00 - Dashboard.md",
+    "project_snapshot.txt",
     "学习.md",
     "配置STM32开发环境(Arch).md",
     "电学.md",
