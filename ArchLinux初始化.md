@@ -89,6 +89,15 @@ makepkg -si
 | `swaybg`                      | https://github.com/swaywm/swaybg                           |
 | `minicom`                     | https://salsa.debian.org/minicom-team/minicom              |
 | `starship`                    | https://starship.rs/                                       |
+| `stow`                        |                                                            |
+| `kitty`                       |                                                            |
+| `dolphin`                     |                                                            |
+| `wofi`                        |                                                            |
+| `playerctl`                   |                                                            |
+| `brightnessctl`               |                                                            |
+| `clang`                       |                                                            |
+| `wireplumber`                 |                                                            |
+| `dunst`                       |                                                            |
 
 ### 一键生成命令 (pacman)
 
