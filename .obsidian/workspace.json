@@ -11,14 +11,14 @@
             "id": "0d9ec03ce2f936be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "ArchLinux初始化.md",
-                "mode": "source",
-                "source": false
+                "aFile": "ArchLinux初始化.md",
+                "bFile": "ArchLinux初始化.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ArchLinux初始化"
+              "icon": "diff",
+              "title": "Diff: ArchLinux初始化"
             }
           }
         ]

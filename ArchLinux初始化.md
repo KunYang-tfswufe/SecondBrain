@@ -89,15 +89,15 @@ makepkg -si
 | `swaybg`                      | https://github.com/swaywm/swaybg                           |
 | `minicom`                     | https://salsa.debian.org/minicom-team/minicom              |
 | `starship`                    | https://starship.rs/                                       |
-| `stow`                        |                                                            |
-| `kitty`                       |                                                            |
-| `dolphin`                     |                                                            |
-| `wofi`                        |                                                            |
-| `playerctl`                   |                                                            |
-| `brightnessctl`               |                                                            |
-| `clang`                       |                                                            |
-| `wireplumber`                 |                                                            |
-| `dunst`                       |                                                            |
+| `stow`                        | https://www.gnu.org/software/stow/                         |
+| `kitty`                       | https://github.com/kovidgoyal/kitty                        |
+| `dolphin`                     | https://apps.kde.org/dolphin/                              |
+| `wofi`                        | https://hg.sr.ht/~scoopta/wofi                             |
+| `playerctl`                   | https://github.com/altdesktop/playerctl                    |
+| `brightnessctl`               | https://github.com/Hummer12007/brightnessctl               |
+| `clang`                       | https://clang.llvm.org/                                    |
+| `wireplumber`                 | https://pipewire.pages.freedesktop.org/wireplumber/        |
+| `dunst`                       | https://dunst-project.org/                                 |
 
 ### 一键生成命令 (pacman)
 
