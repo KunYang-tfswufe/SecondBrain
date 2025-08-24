@@ -210,7 +210,7 @@ sudo systemctl enable --now ollama
 
 # Jellyfin
 sudo systemctl enable --now jellyfin.service
-sudo mkdir -p /srv/jellyfin/{music,movies,series}
+sudo mkdir -p /srv/jellyfin/{bookshelf,music,picture,subtitle,the_vault,video}
 sudo chown -R jellyfin:jellyfin /srv/jellyfin
 sudo usermod -aG jellyfin $USER
 sudo chmod -R 775 /srv/jellyfin

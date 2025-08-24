@@ -11,14 +11,14 @@
             "id": "66d6f52393a94499",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "ArchLinux初始化.md",
-                "bFile": "ArchLinux初始化.md",
-                "aRef": ""
+                "file": "ArchLinux初始化.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: ArchLinux初始化"
+              "icon": "lucide-file",
+              "title": "ArchLinux初始化"
             }
           }
         ]
@@ -166,8 +166,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -190,12 +190,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66d6f52393a94499",
+  "active": "4fd83e0e5906e353",
   "lastOpenFiles": [
+    "学习.md",
     "ArchLinux初始化.md",
     "00 - Dashboard.md",
     "书签.md",
-    "学习.md",
     "README.md",
     "配置STM32开发环境(Arch).md",
     "project_snapshot.txt",
