@@ -208,6 +208,9 @@ espanso service start
 # Ollama
 sudo systemctl enable --now ollama
 
+# Jellyfin
+sudo systemctl enable --now jellyfin.service
+
 # 默认 Shell 切换为 Fish
 chsh -s /usr/bin/fish
 ```
