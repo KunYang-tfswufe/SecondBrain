@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca90c6249773e8f1",
+        "id": "d806db76deecac84",
         "type": "tabs",
         "children": [
           {
-            "id": "0d9ec03ce2f936be",
+            "id": "66d6f52393a94499",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "书签.md",
-                "mode": "source",
-                "source": false
+                "aFile": "ArchLinux初始化.md",
+                "bFile": "ArchLinux初始化.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "书签"
+              "icon": "diff",
+              "title": "Diff: ArchLinux初始化"
             }
           }
         ]
@@ -190,7 +190,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d9ec03ce2f936be",
+  "active": "66d6f52393a94499",
   "lastOpenFiles": [
     "ArchLinux初始化.md",
     "00 - Dashboard.md",

@@ -104,6 +104,9 @@ makepkg -si
 | `alsa-utils`                  | https://www.alsa-project.org/                              |
 | `sof-firmware`                | https://www.sofproject.org/                                |
 | `veracrypt`                   | https://www.veracrypt.fr/                                  |
+| `jellyfin-server`             | https://jellyfin.org/                                      |
+| `jellyfin-web`                | https://jellyfin.org/                                      |
+| `ffmpeg`                      | https://ffmpeg.org/                                        |
 
 ### 一键生成命令 (pacman)
 
