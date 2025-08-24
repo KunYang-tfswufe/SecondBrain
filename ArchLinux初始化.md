@@ -107,6 +107,8 @@ makepkg -si
 | `jellyfin-server`             | https://jellyfin.org/                                      |
 | `jellyfin-web`                | https://jellyfin.org/                                      |
 | `ffmpeg`                      | https://ffmpeg.org/                                        |
+| `unzip`                       | http://infozip.sourceforge.net/UnZip.html                  |
+| `wget`                        | https://www.gnu.org/software/wget/wget.html                |
 
 ### 一键生成命令 (pacman)
 
