@@ -36,6 +36,7 @@ makepkg -si
 | 包名 (Package Name)             | Upstream URL                                               |
 | ----------------------------- | ---------------------------------------------------------- |
 | `neovim`                      | https://neovim.io/                                         |
+| `openssh`                     |                                                            |
 | `xdg-desktop-portal-hyprland` | https://github.com/hyprwm/xdg-desktop-portal-hyprland      |
 | `xdg-desktop-portal-gtk`      | https://github.com/flatpak/xdg-desktop-portal-gtk          |
 | `waybar`                      | https://github.com/Alexays/Waybar/                         |
@@ -212,11 +213,15 @@ sudo systemctl enable --now ollama
 
 # Jellyfin
 sudo systemctl enable --now jellyfin.service
-sudo mkdir -p /srv/jellyfin/{bookshelf,music_touhou1,music_touhou2,music_touhou3,picture,subtitle,the_vault,video}
+sudo mkdir -p /srv/jellyfin/{bookshelf,picture,subtitle,the_vault,video}
 sudo chown -R jellyfin:jellyfin /srv/jellyfin
 sudo usermod -aG jellyfin $USER
 sudo chmod -R 775 /srv/jellyfin
 sudo chmod -R g+s /srv/jellyfin
+
+# SSH
+sudo systemctl start sshd
+sudo systemctl enable sshd
 
 # 默认 Shell 切换为 Fish
 chsh -s /usr/bin/fish
