@@ -98,6 +98,8 @@ makepkg -si
 | `clang`                       | https://clang.llvm.org/                                    |
 | `wireplumber`                 | https://pipewire.pages.freedesktop.org/wireplumber/        |
 | `dunst`                       | https://dunst-project.org/                                 |
+| `pipewire`                    | https://pipewire.org/                                      |
+| `pipewire-pulse`              | https://pipewire.org/                                      |
 
 ### 一键生成命令 (pacman)
 
