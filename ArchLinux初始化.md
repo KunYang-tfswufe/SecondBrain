@@ -96,10 +96,13 @@ makepkg -si
 | `playerctl`                   | https://github.com/altdesktop/playerctl                    |
 | `brightnessctl`               | https://github.com/Hummer12007/brightnessctl               |
 | `clang`                       | https://clang.llvm.org/                                    |
-| `wireplumber`                 | https://pipewire.pages.freedesktop.org/wireplumber/        |
 | `dunst`                       | https://dunst-project.org/                                 |
+| `wireplumber`                 | https://pipewire.pages.freedesktop.org/wireplumber/        |
 | `pipewire`                    | https://pipewire.org/                                      |
 | `pipewire-pulse`              | https://pipewire.org/                                      |
+| `pipewire-alsa`               | https://pipewire.org/                                      |
+| `alsa-utils`                  | https://www.alsa-project.org/                              |
+| `sof-firmware`                | https://www.sofproject.org/                                |
 
 ### 一键生成命令 (pacman)
 
