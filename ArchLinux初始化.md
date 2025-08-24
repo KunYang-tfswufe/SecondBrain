@@ -103,6 +103,7 @@ makepkg -si
 | `pipewire-alsa`               | https://pipewire.org/                                      |
 | `alsa-utils`                  | https://www.alsa-project.org/                              |
 | `sof-firmware`                | https://www.sofproject.org/                                |
+| `veracrypt`                   | https://www.veracrypt.fr/                                  |
 
 ### 一键生成命令 (pacman)
 
