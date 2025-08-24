@@ -210,6 +210,11 @@ sudo systemctl enable --now ollama
 
 # Jellyfin
 sudo systemctl enable --now jellyfin.service
+sudo mkdir -p /srv/jellyfin/{music,movies,series}
+sudo chown -R jellyfin:jellyfin /srv/jellyfin
+sudo usermod -aG jellyfin $USER
+sudo chmod -R 775 /srv/jellyfin
+sudo chmod -R g+s /srv/jellyfin
 
 # 默认 Shell 切换为 Fish
 chsh -s /usr/bin/fish
