@@ -223,6 +223,9 @@ sudo chmod -R g+s /srv/jellyfin
 sudo systemctl start sshd
 sudo systemctl enable sshd
 
+# gemini-cli
+npm install -g @google/gemini-cli
+
 # cursor-cli
 curl https://cursor.com/install -fsS | bash
 
