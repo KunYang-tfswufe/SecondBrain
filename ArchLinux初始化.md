@@ -223,6 +223,9 @@ sudo chmod -R g+s /srv/jellyfin
 sudo systemctl start sshd
 sudo systemctl enable sshd
 
+# cursor-cli
+curl https://cursor.com/install -fsS | bash
+
 # 默认 Shell 切换为 Fish
 chsh -s /usr/bin/fish
 ```
