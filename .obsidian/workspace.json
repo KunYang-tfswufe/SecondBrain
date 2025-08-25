@@ -11,14 +11,14 @@
             "id": "66d6f52393a94499",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "学习.md",
-                "bFile": "学习.md",
-                "aRef": ""
+                "file": "学习.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 学习"
+              "icon": "lucide-file",
+              "title": "学习"
             }
           }
         ]
@@ -192,13 +192,13 @@
   },
   "active": "66d6f52393a94499",
   "lastOpenFiles": [
-    "学习.md",
-    "书签.md",
+    "配置STM32开发环境(Arch).md",
     "README.md",
+    "书签.md",
     "ArchLinux初始化.md",
     "01 - 待办事项.md",
+    "学习.md",
     "00 - Dashboard.md",
-    "配置STM32开发环境(Arch).md",
     "project_snapshot.txt",
     "电学.md",
     "Untitled.base",
