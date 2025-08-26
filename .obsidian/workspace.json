@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - 待办事项.md",
+                "file": "ArchLinux初始化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - 待办事项"
+              "title": "ArchLinux初始化"
             }
           }
         ]
@@ -192,10 +192,10 @@
   },
   "active": "66d6f52393a94499",
   "lastOpenFiles": [
-    "ArchLinux初始化.md",
-    "01 - 待办事项.md",
-    "00 - Dashboard.md",
     "书签.md",
+    "01 - 待办事项.md",
+    "ArchLinux初始化.md",
+    "00 - Dashboard.md",
     "学习.md",
     "README.md",
     "配置STM32开发环境(Arch).md",

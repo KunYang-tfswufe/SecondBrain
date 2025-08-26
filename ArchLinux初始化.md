@@ -110,6 +110,7 @@ makepkg -si
 | `ffmpeg`                      | https://ffmpeg.org/                                        |
 | `unzip`                       | http://infozip.sourceforge.net/UnZip.html                  |
 | `wget`                        | https://www.gnu.org/software/wget/wget.html                |
+| `cronie`                      | https://github.com/cronie-crond/cronie/                    |
 
 ### 一键生成命令 (pacman)
 
