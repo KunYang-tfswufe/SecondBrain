@@ -35,6 +35,7 @@ makepkg -si
 
 | 包名 (Package Name)             | Upstream URL                                               |
 | ----------------------------- | ---------------------------------------------------------- |
+| `cockpit`                     |                                                            |
 | `neovim`                      | https://neovim.io/                                         |
 | `openssh`                     |                                                            |
 | `xdg-desktop-portal-hyprland` | https://github.com/hyprwm/xdg-desktop-portal-hyprland      |
@@ -202,6 +203,9 @@ dv.paragraph(`\n\n\`\`\`bash\n# 此命令由 Dataview 自动生成，与上方�
 - [ ] Fish：设置为默认 Shell
 
 ```bash
+# cockpit
+sudo systemctl enable --now cockpit.socket
+
 # Docker
 sudo systemctl enable --now docker
 sudo usermod -aG docker $USER
