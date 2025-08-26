@@ -35,9 +35,9 @@ makepkg -si
 
 | 包名 (Package Name)             | Upstream URL                                               |
 | ----------------------------- | ---------------------------------------------------------- |
-| `cockpit`                     |                                                            |
+| `cockpit`                     | https://cockpit-project.org/                               |
 | `neovim`                      | https://neovim.io/                                         |
-| `openssh`                     |                                                            |
+| `openssh`                     | https://www.openssh.com/portable.html                      |
 | `xdg-desktop-portal-hyprland` | https://github.com/hyprwm/xdg-desktop-portal-hyprland      |
 | `xdg-desktop-portal-gtk`      | https://github.com/flatpak/xdg-desktop-portal-gtk          |
 | `waybar`                      | https://github.com/Alexays/Waybar/                         |
