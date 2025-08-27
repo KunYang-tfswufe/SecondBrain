@@ -11,14 +11,14 @@
             "id": "66d6f52393a94499",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -192,12 +192,12 @@
   },
   "active": "66d6f52393a94499",
   "lastOpenFiles": [
-    "00 - Dashboard.md",
-    "README.md",
-    "STM32-Dev-Setup-Arch.md",
     "Learning-Resources.md",
-    "Bookmarks.md",
     "01 - Todo List.md",
+    "README.md",
+    "00 - Dashboard.md",
+    "STM32-Dev-Setup-Arch.md",
+    "Bookmarks.md",
     "ArchLinux-Setup.md",
     "配置STM32开发环境(Arch).md",
     "学习.md",

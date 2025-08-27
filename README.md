@@ -1,4 +1,4 @@
-# 终极规划清单 (The Ultimate Planning Checklist)
+# The Ultimate Planning Checklist
 
 开发一个项目在写代码前，确保你已经有了这些东西：
 
