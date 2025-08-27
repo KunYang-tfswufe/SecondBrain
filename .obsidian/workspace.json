@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookmarks.md",
+                "file": "Learning-Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bookmarks"
+              "title": "Learning-Resources"
             }
           }
         ]
@@ -192,13 +192,13 @@
   },
   "active": "66d6f52393a94499",
   "lastOpenFiles": [
-    "ArchLinux-Setup.md",
     "Bookmarks.md",
-    "Learning-Resources.md",
-    "STM32-Dev-Setup-Arch.md",
-    "00 - Dashboard.md",
+    "ArchLinux-Setup.md",
     "01 - Todo List.md",
+    "00 - Dashboard.md",
+    "STM32-Dev-Setup-Arch.md",
     "README.md",
+    "Learning-Resources.md",
     "配置STM32开发环境(Arch).md",
     "学习.md",
     "书签.md",
