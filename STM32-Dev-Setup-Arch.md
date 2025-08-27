@@ -29,7 +29,7 @@ ST 官网的软件包（如 CubeIDE, CubeProg）需要登录才能下载，因�
 
 ---
 
-### 2. STM32CubeProgrammer (烧录工具)
+### 2. STM32CubeProgrammer
 
 **步骤**:
 
