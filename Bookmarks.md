@@ -22,7 +22,6 @@
 | https://s3.amazonaws.com/psiphon/web/u1dy-me41-s9yv/en/download.html                 | Psiphon（赛风）下载                 |
 | https://proxy.888005.xyz                                                             | 代理检测                            |
 | https://github.com/juewuy/ShellCrash                                                 | ShellCrash                          |
-| https://lianjiajichang.net                                                           | lianjia机场                         |
 | https://mitce.net                                                                    | mitce机场                           |
 | https://6.66jc.top                                                                   | nb机场                              |
 | https://w3schools.com                                                                | Web 开发教程与示例                  |
