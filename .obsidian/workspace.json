@@ -11,14 +11,14 @@
             "id": "66d6f52393a94499",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "ArchLinux初始化.md",
-                "bFile": "ArchLinux初始化.md",
-                "aRef": ""
+                "file": "ArchLinux初始化.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: ArchLinux初始化"
+              "icon": "lucide-file",
+              "title": "ArchLinux初始化"
             }
           }
         ]
@@ -192,13 +192,13 @@
   },
   "active": "66d6f52393a94499",
   "lastOpenFiles": [
-    "ArchLinux初始化.md",
-    "学习.md",
-    "书签.md",
+    "配置STM32开发环境(Arch).md",
     "README.md",
+    "书签.md",
+    "学习.md",
+    "ArchLinux初始化.md",
     "00 - Dashboard.md",
     "01 - 待办事项.md",
-    "配置STM32开发环境(Arch).md",
     "project_snapshot.txt",
     "电学.md",
     "Untitled.base",
