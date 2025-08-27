@@ -15,7 +15,7 @@
               "state": {
                 "file": "ArchLinux-Setup.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "ArchLinux-Setup"
@@ -192,12 +192,12 @@
   },
   "active": "e52e130b0b5388ca",
   "lastOpenFiles": [
+    "ArchLinux-Setup.md",
+    "01 - Todo List.md",
+    "Bookmarks.md",
     "Learning-Resources.md",
     "01 - Todo List.md~",
-    "Bookmarks.md",
     "00 - Dashboard.md",
-    "01 - Todo List.md",
-    "ArchLinux-Setup.md",
     "README.md",
     "STM32-Dev-Setup-Arch.md",
     "配置STM32开发环境(Arch).md",
