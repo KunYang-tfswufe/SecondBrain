@@ -192,12 +192,13 @@
   },
   "active": "e52e130b0b5388ca",
   "lastOpenFiles": [
-    "Bookmarks.md",
-    "README.md",
     "Learning-Resources.md",
+    "01 - Todo List.md~",
+    "Bookmarks.md",
+    "00 - Dashboard.md",
     "01 - Todo List.md",
     "ArchLinux-Setup.md",
-    "00 - Dashboard.md",
+    "README.md",
     "STM32-Dev-Setup-Arch.md",
     "配置STM32开发环境(Arch).md",
     "学习.md",
@@ -226,7 +227,6 @@
     "assets/SpringinAction5thEdition.pdf",
     "assets/DockerDeepDive.pdf",
     "assets/CalculusEarlyTranscendentals.7z",
-    "assets/AttentionIsAllYouNeed.pdf",
     "未命名.canvas"
   ]
 }

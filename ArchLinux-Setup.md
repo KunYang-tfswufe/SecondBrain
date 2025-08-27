@@ -198,7 +198,8 @@ const yayCmd = `yay -Syu --needed ${aurPkgs.join(' ')}`;
 
 dv.paragraph(`\n\n\`\`\`bash\n# 此命令由 Dataview 自动生成，与上方表格保持同步\n${yayCmd}\n\`\`\`\n`);
 ```
-
+### Other packages
+sudo npm install -g prettier
 ### Initialization and Services
 
 - [ ] Docker：开机自启并加入用户组
