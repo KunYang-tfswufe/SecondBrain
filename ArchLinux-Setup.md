@@ -38,7 +38,7 @@ sudo pacman -Syu --needed cockpit neovim openssh xdg-desktop-portal-hyprland xdg
 | `zen-browser-bin`                | https://github.com/zen-browser/desktop    |
 | `intellij-idea-ultimate-edition` | https://www.jetbrains.com/idea/           |
 
-### Other packages
+### Other Package
 
 ```bash
 # prettier
