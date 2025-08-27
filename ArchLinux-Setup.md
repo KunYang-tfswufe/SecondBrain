@@ -24,7 +24,7 @@ rm -rf yay
 ### Official Repository Package List
 
 ```bash
-sudo pacman -Syu --needed cockpit neovim openssh xdg-desktop-portal-hyprland xdg-desktop-portal-gtk waybar grim slurp wl-clipboard noto-fonts-cjk ttf-font-awesome ttf-jetbrains-mono-nerd fcitx5-im fcitx5-rime nvidia-utils lib32-nvidia-utils mesa-utils lib32-mesa-utils ntfs-3g zellij fzf jq zoxide ripgrep bat lazygit firefox keepassxc 7zip flatpak bottom wireshark-cli github-cli mpv obs-studio yt-dlp rustscan scrcpy prismlauncher dust okular tigervnc docker docker-compose fish qemu-full edk2-ovmf ollama-cuda rpi-imager npm rclone noto-fonts-emoji swaybg minicom starship stow kitty dolphin wofi playerctl brightnessctl clang dunst wireplumber pipewire pipewire-pulse pipewire-alsa alsa-utils sof-firmware veracrypt jellyfin-server jellyfin-web ffmpeg unzip wget cronie glow
+sudo pacman -Syu --needed cockpit neovim openssh xdg-desktop-portal-hyprland xdg-desktop-portal-gtk waybar grim slurp wl-clipboard noto-fonts-cjk ttf-font-awesome ttf-jetbrains-mono-nerd fcitx5-im fcitx5-rime nvidia-utils lib32-nvidia-utils mesa-utils lib32-mesa-utils ntfs-3g zellij fzf jq zoxide ripgrep bat lazygit firefox keepassxc 7zip flatpak bottom wireshark-cli github-cli mpv obs-studio yt-dlp rustscan scrcpy prismlauncher dust okular tigervnc docker docker-compose fish qemu-full edk2-ovmf ollama-cuda rpi-imager npm rclone noto-fonts-emoji swaybg minicom starship stow kitty dolphin wofi playerctl brightnessctl clang dunst wireplumber pipewire pipewire-pulse pipewire-alsa alsa-utils sof-firmware veracrypt ffmpeg unzip wget cronie glow
 ```
 
 ### AUR Package List
