@@ -35,7 +35,6 @@
 | https://sorryios.com                                                                 | 代订阅服务与共享订阅账户平台        |
 | https://shop.edumails.org                                                            | 教育邮箱购买                        |
 | https://www.downloadnth.com/download.html                                            | 软件下载站                          |
-| https://xn--yfrp36ea9901a.com                                                        | gougou机场                          |
 | https://github.com/EvanLi/Github-Ranking                                             | GitHub 仓库/开发者排名              |
 | https://github.com/FabricMC                                                          | Minecraft Modding 工具链            |
 | https://github.com/GTNewHorizons                                                     | Minecraft GT New Horizons           |
