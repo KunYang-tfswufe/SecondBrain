@@ -41,6 +41,8 @@ sudo pacman -Syu --needed cockpit neovim openssh xdg-desktop-portal-hyprland xdg
 ### Other packages
 
 sudo npm install -g prettier
+npm install -g @google/gemini-cli
+curl https://cursor.com/install -fsS | bash
 
 ### Initialization and Services
 
@@ -70,12 +72,6 @@ sudo chmod -R g+s /srv/jellyfin
 # SSH
 sudo systemctl start sshd
 sudo systemctl enable sshd
-
-# gemini-cli
-npm install -g @google/gemini-cli
-
-# cursor-cli
-curl https://cursor.com/install -fsS | bash
 
 # 默认 Shell 切换为 Fish
 chsh -s /usr/bin/fish
