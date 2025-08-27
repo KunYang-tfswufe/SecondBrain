@@ -115,6 +115,7 @@ rm -rf yay
 | `unzip`                       | http://infozip.sourceforge.net/UnZip.html                  |
 | `wget`                        | https://www.gnu.org/software/wget/wget.html                |
 | `cronie`                      | https://github.com/cronie-crond/cronie/                    |
+| `glow`                        | https://github.com/charmbracelet/glow                      |
 
 ### Generate Command (pacman)
 

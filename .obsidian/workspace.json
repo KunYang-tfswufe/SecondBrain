@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Dashboard.md",
+                "file": "ArchLinux-Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Dashboard"
+              "title": "ArchLinux-Setup"
             }
           }
         ]
@@ -192,13 +192,13 @@
   },
   "active": "e52e130b0b5388ca",
   "lastOpenFiles": [
-    "01 - Todo List.md",
-    "ArchLinux-Setup.md",
-    "STM32-Dev-Setup-Arch.md",
+    "Bookmarks.md",
     "README.md",
     "Learning-Resources.md",
+    "01 - Todo List.md",
+    "ArchLinux-Setup.md",
     "00 - Dashboard.md",
-    "Bookmarks.md",
+    "STM32-Dev-Setup-Arch.md",
     "配置STM32开发环境(Arch).md",
     "学习.md",
     "书签.md",
