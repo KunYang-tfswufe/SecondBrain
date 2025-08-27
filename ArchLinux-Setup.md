@@ -1,4 +1,5 @@
 ### Table of Contents
+
 - [前置准备](#前置准备)
 - [安装 AUR 助手 (yay)](#安装-aur-助手-yay)
 - [官方仓库软件包清单](#官方仓库软件包清单)
@@ -11,7 +12,9 @@
 - [快速验证](#快速验证)
 
 ### Prerequisites
+
 > [!TIP] 建议
+>
 > - 先同步镜像并安装构建工具：
 >   - `sudo pacman -Syu`
 >   - `sudo pacman -S --needed git base-devel`
@@ -34,9 +37,10 @@ rm -rf yay
 ### Official Repository Package List
 
 > [!TIP] 如何使用
+>
 > - **维护**：要增删软件，只需在此表格中添加或删除行。
 
-| 包名 (Package Name)             | Upstream URL                                               |
+| 包名 (Package Name)           | Upstream URL                                               |
 | ----------------------------- | ---------------------------------------------------------- |
 | `cockpit`                     | https://cockpit-project.org/                               |
 | `neovim`                      | https://neovim.io/                                         |
@@ -55,7 +59,7 @@ rm -rf yay
 | `nvidia-utils`                | http://www.nvidia.com/                                     |
 | `lib32-nvidia-utils`          | http://www.nvidia.com/                                     |
 | `mesa-utils`                  | https://www.mesa3d.org/                                    |
-| ``lib32-mesa-utils``          | http://mesa3d.sourceforge.net/                             |
+| `lib32-mesa-utils`            | http://mesa3d.sourceforge.net/                             |
 | `ntfs-3g`                     | https://www.tuxera.com/community/open-source-ntfs-3g/      |
 | `zellij`                      | https://archlinux.org/packages/extra/x86_64/zellij/        |
 | `fzf`                         | https://github.com/junegunn/fzf                            |
@@ -155,7 +159,7 @@ dv.paragraph(`\n\n\`\`\`bash\n# 此命令由 Dataview 自动生成，与上方�
 
 ### AUR Package List
 
-| 包名 (Package Name)                | Upstream URL                              |
+| 包名 (Package Name)              | Upstream URL                              |
 | -------------------------------- | ----------------------------------------- |
 | `cursor-bin`                     | https://www.cursor.com/                   |
 | `envycontrol`                    | https://github.com/bayasdev/envycontrol   |
@@ -198,8 +202,11 @@ const yayCmd = `yay -Syu --needed ${aurPkgs.join(' ')}`;
 
 dv.paragraph(`\n\n\`\`\`bash\n# 此命令由 Dataview 自动生成，与上方表格保持同步\n${yayCmd}\n\`\`\`\n`);
 ```
+
 ### Other packages
+
 sudo npm install -g prettier
+
 ### Initialization and Services
 
 - [ ] Docker：开机自启并加入用户组
@@ -249,6 +256,7 @@ chsh -s /usr/bin/fish
 > 若使用 Compose 插件，也可安装 `docker-compose-plugin`。
 
 ### Optional Docker Applications
+
 ```bash
 # AnythingLLM
 docker pull mintplexlabs/anythingllm
@@ -263,10 +271,8 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway \
 docker run -d --restart always -p 7000:7000 danielgatis/rembg s --host 0.0.0.0 --port 7000
 ```
 
-### Environment Configuration
-[[STM32-Dev-Setup-Arch.md]]
-
 ### Quick Verification
+
 ```bash
 nvidia-smi || true
 docker ps
