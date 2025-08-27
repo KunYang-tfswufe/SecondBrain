@@ -11,14 +11,14 @@
             "id": "66d6f52393a94499",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "STM32-Dev-Setup-Arch.md",
-                "bFile": "STM32-Dev-Setup-Arch.md",
-                "aRef": ""
+                "file": "ArchLinux-Setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: STM32-Dev-Setup-Arch"
+              "icon": "lucide-file",
+              "title": "ArchLinux-Setup"
             }
           }
         ]
@@ -192,13 +192,13 @@
   },
   "active": "66d6f52393a94499",
   "lastOpenFiles": [
+    "00 - Dashboard.md",
     "STM32-Dev-Setup-Arch.md",
     "01 - Todo List.md",
     "ArchLinux-Setup.md",
     "Bookmarks.md",
     "Learning-Resources.md",
     "README.md",
-    "00 - Dashboard.md",
     "配置STM32开发环境(Arch).md",
     "学习.md",
     "书签.md",
