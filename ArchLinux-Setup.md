@@ -38,17 +38,11 @@ sudo pacman -Syu --needed cockpit neovim openssh xdg-desktop-portal-hyprland xdg
 | `zen-browser-bin`                | https://github.com/zen-browser/desktop    |
 | `intellij-idea-ultimate-edition` | https://www.jetbrains.com/idea/           |
 
-
 ### Other packages
 
 sudo npm install -g prettier
 
 ### Initialization and Services
-
-- [ ] Docker：开机自启并加入用户组
-- [ ] Espanso：注册并启动服务
-- [ ] Ollama：开机自启
-- [ ] Fish：设置为默认 Shell
 
 ```bash
 # cockpit
@@ -105,15 +99,4 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway \
 
 # rembg server
 docker run -d --restart always -p 7000:7000 danielgatis/rembg s --host 0.0.0.0 --port 7000
-```
-
-### Quick Verification
-
-```bash
-nvidia-smi || true
-docker ps
-espanso --version || true
-yay --version
-ollama --version || true
-fish --version
 ```
