@@ -1,7 +1,6 @@
 # The Ultimate Planning Checklist
 
 开发一个项目在写代码前，确保你已经有了这些东西：
-
 ## ✅ Planning Checklist
 
 ### 1. 一句话项目描述
