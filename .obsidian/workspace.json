@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "STM32-Dev-Setup-Arch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "STM32-Dev-Setup-Arch"
             }
           }
         ]
@@ -194,11 +194,11 @@
   "lastOpenFiles": [
     "README.md",
     "Learning-Resources.md",
-    "01 - Todo List.md",
     "00 - Dashboard.md",
-    "STM32-Dev-Setup-Arch.md",
-    "Bookmarks.md",
+    "01 - Todo List.md",
     "ArchLinux-Setup.md",
+    "Bookmarks.md",
+    "STM32-Dev-Setup-Arch.md",
     "配置STM32开发环境(Arch).md",
     "学习.md",
     "书签.md",
