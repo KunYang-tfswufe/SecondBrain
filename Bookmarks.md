@@ -24,6 +24,7 @@
 | https://github.com/juewuy/ShellCrash                                                 | ShellCrash                          |
 | https://mitce.net                                                                    | mitce机场                           |
 | https://6.66jc.top                                                                   | nb机场                              |
+| https://sibker.com                                                                   | byg机场中转地址                     |
 | https://w3schools.com                                                                | Web 开发教程与示例                  |
 | https://freecodecamp.org                                                             | 免费编程课程与项目                  |
 | https://scratch.mit.edu                                                              | 少女图形化编程                      |
