@@ -1,4 +1,4 @@
-### 目录
+### Table of Contents
 - [前置准备](#前置准备)
 - [安装 AUR 助手 (yay)](#安装-aur-助手-yay)
 - [官方仓库软件包清单](#官方仓库软件包清单)
@@ -10,7 +10,7 @@
 - [环境配置](#环境配置)
 - [快速验证](#快速验证)
 
-### 前置准备
+### Prerequisites
 > [!TIP] 建议
 > - 先同步镜像并安装构建工具：
 >   - `sudo pacman -Syu`
@@ -18,7 +18,7 @@
 > - Flatpak 建议添加 Flathub 源：
 >   - `flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
 
-### 安装 AUR 助手 (yay)
+### Install AUR Helper (yay)
 
 ```bash
 # https://github.com/Jguer/yay/
@@ -31,7 +31,7 @@ cd .. && \
 rm -rf yay
 ```
 
-### 官方仓库软件包清单
+### Official Repository Package List
 
 > [!TIP] 如何使用
 > - **维护**：要增删软件，只需在此表格中添加或删除行。
@@ -116,7 +116,7 @@ rm -rf yay
 | `wget`                        | https://www.gnu.org/software/wget/wget.html                |
 | `cronie`                      | https://github.com/cronie-crond/cronie/                    |
 
-### 一键生成命令 (pacman)
+### Generate Command (pacman)
 
 ```dataviewjs
 // 解析“官方仓库软件包清单”表格，生成 pacman 安装命令
@@ -152,7 +152,7 @@ const command = `sudo pacman -Syu --needed ${packages.join(' ')}`;
 dv.paragraph(`\n\n\`\`\`bash\n# 此命令由 Dataview 自动生成，与上方表格保持同步\n${command}\n\`\`\`\n`);
 ```
 
-### AUR 软件包清单
+### AUR Package List
 
 | 包名 (Package Name)                | Upstream URL                              |
 | -------------------------------- | ----------------------------------------- |
@@ -163,7 +163,7 @@ dv.paragraph(`\n\n\`\`\`bash\n# 此命令由 Dataview 自动生成，与上方�
 | `zen-browser-bin`                | https://github.com/zen-browser/desktop    |
 | `intellij-idea-ultimate-edition` | https://www.jetbrains.com/idea/           |
 
-### 一键生成命令 (yay)
+### Generate Command (yay)
 
 ```dataviewjs
 // 解析“AUR 软件包清单”表格，生成 yay 安装命令
@@ -198,7 +198,7 @@ const yayCmd = `yay -Syu --needed ${aurPkgs.join(' ')}`;
 dv.paragraph(`\n\n\`\`\`bash\n# 此命令由 Dataview 自动生成，与上方表格保持同步\n${yayCmd}\n\`\`\`\n`);
 ```
 
-### 初始化与服务
+### Initialization and Services
 
 - [ ] Docker：开机自启并加入用户组
 - [ ] Espanso：注册并启动服务
@@ -246,7 +246,7 @@ chsh -s /usr/bin/fish
 > 将用户加入 `docker` 组后需重新登录（或 `newgrp docker`）才会生效。
 > 若使用 Compose 插件，也可安装 `docker-compose-plugin`。
 
-### 可选的 Docker 应用
+### Optional Docker Applications
 ```bash
 # AnythingLLM
 docker pull mintplexlabs/anythingllm
@@ -261,10 +261,10 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway \
 docker run -d --restart always -p 7000:7000 danielgatis/rembg s --host 0.0.0.0 --port 7000
 ```
 
-### 环境配置
-[[配置STM32开发环境(Arch).md]]
+### Environment Configuration
+[[Setup-STM32-Dev-Env-Arch.md]]
 
-### 快速验证
+### Quick Verification
 ```bash
 nvidia-smi || true
 docker ps
