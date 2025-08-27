@@ -1,25 +1,26 @@
-### Prerequisites
+### 准备工作与安装 AUR 助手 (yay)
+
+在安装其他软件包之前，建议先更新系统、安装必要的构建工具，并安装一个 AUR 助手（如 `yay`）来简化后续从 Arch User Repository 安装软件的过程。
+
+```bash
+# 1. 同步官方仓库，并安装 yay 所需的依赖 (git 和 base-devel)
+sudo pacman -Syu --needed git base-devel
+
+# 2. 从 AUR 克隆、构建并安装 yay，然后清理残留文件
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+cd ..
+rm -rf yay
+```
 
 > [!TIP] 建议
 >
-> - 先同步镜像并安装构建工具：
->   - `sudo pacman -Syu`
->   - `sudo pacman -S --needed git base-devel`
-> - Flatpak 建议添加 Flathub 源：
->   - `flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
-
-### Install AUR Helper (yay)
-
-```bash
-# https://github.com/Jguer/yay/
-# 安装依赖、克隆、构建、安装，然后清理残留文件夹
-sudo pacman -S --needed git base-devel && \
-git clone https://aur.archlinux.org/yay.git && \
-cd yay && \
-makepkg -si && \
-cd .. && \
-rm -rf yay
-```
+> 如果计划使用 Flatpak，建议提前添加 Flathub 源：
+>
+> ```bash
+> flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+> ```
 
 ### Official Repository Package List
 
