@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d806db76deecac84",
+        "id": "ac2db5776f8d311a",
         "type": "tabs",
         "children": [
           {
-            "id": "66d6f52393a94499",
+            "id": "e52e130b0b5388ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: README"
             }
           }
         ]
@@ -190,11 +190,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66d6f52393a94499",
+  "active": "e52e130b0b5388ca",
   "lastOpenFiles": [
     "Learning-Resources.md",
-    "01 - Todo List.md",
     "README.md",
+    "01 - Todo List.md",
     "00 - Dashboard.md",
     "STM32-Dev-Setup-Arch.md",
     "Bookmarks.md",
