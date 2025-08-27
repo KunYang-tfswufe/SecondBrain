@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "01 - 待办事项.md",
-                "bFile": "01 - 待办事项.md",
+                "aFile": "00 - Dashboard.md",
+                "bFile": "00 - Dashboard.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 01 - 待办事项"
+              "title": "Diff: 00 - Dashboard"
             }
           }
         ]
@@ -192,18 +192,22 @@
   },
   "active": "66d6f52393a94499",
   "lastOpenFiles": [
-    "00 - Dashboard.md",
     "配置STM32开发环境(Arch).md",
+    "STM32-Dev-Setup-Arch.md",
     "学习.md",
+    "Learning-Resources.md",
     "书签.md",
-    "ArchLinux初始化.md",
+    "Bookmarks.md",
+    "ArchLinux-Setup.md",
+    "01 - Todo List.md",
+    "README.md",
     "01 - 待办事项.md",
+    "ArchLinux初始化.md",
+    "00 - Dashboard.md",
     "ArchLinux-Initialization.md",
     "01 - Todos.md",
-    "README.md",
     "Setup-STM32-Dev-Env-Arch.md",
     "Learning.md",
-    "Bookmarks.md",
     "project_snapshot.txt",
     "电学.md",
     "Untitled.base",
@@ -217,10 +221,6 @@
     "Templates/Blueprint Template.md",
     "Templates",
     "Other安装脚本.md",
-    "AUR 软件包.md",
-    "如何有效组织笔记-模板笔记.md",
-    "Templates/新笔记模板.md.md",
-    "基础archlinux软件包.md",
     "assets/progit.pdf",
     "assets/kiss.kdbx",
     "assets/basic.tar",

@@ -262,7 +262,7 @@ docker run -d --restart always -p 7000:7000 danielgatis/rembg s --host 0.0.0.0 -
 ```
 
 ### Environment Configuration
-[[Setup-STM32-Dev-Env-Arch.md]]
+[[STM32-Dev-Setup-Arch.md]]
 
 ### Quick Verification
 ```bash
