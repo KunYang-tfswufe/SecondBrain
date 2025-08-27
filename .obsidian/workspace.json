@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "00 - Dashboard.md",
-                "bFile": "00 - Dashboard.md",
+                "aFile": "README.md",
+                "bFile": "README.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 00 - Dashboard"
+              "title": "Diff: README"
             }
           }
         ]
@@ -192,14 +192,13 @@
   },
   "active": "66d6f52393a94499",
   "lastOpenFiles": [
+    "00 - Dashboard.md",
     "README.md",
+    "STM32-Dev-Setup-Arch.md",
     "Learning-Resources.md",
-    "Project-Planning-Checklist.md",
     "Bookmarks.md",
     "01 - Todo List.md",
-    "00 - Dashboard.md",
     "ArchLinux-Setup.md",
-    "STM32-Dev-Setup-Arch.md",
     "配置STM32开发环境(Arch).md",
     "学习.md",
     "书签.md",
