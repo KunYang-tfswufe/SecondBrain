@@ -22,10 +22,13 @@
 
 ```bash
 # https://github.com/Jguer/yay/
-sudo pacman -S --needed git base-devel
-git clone https://aur.archlinux.org/yay.git
-cd yay
-makepkg -si
+# 安装依赖、克隆、构建、安装，然后清理残留文件夹
+sudo pacman -S --needed git base-devel && \
+git clone https://aur.archlinux.org/yay.git && \
+cd yay && \
+makepkg -si && \
+cd .. && \
+rm -rf yay
 ```
 
 ### 官方仓库软件包清单
