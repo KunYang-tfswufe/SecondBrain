@@ -40,9 +40,16 @@ sudo pacman -Syu --needed cockpit neovim openssh xdg-desktop-portal-hyprland xdg
 
 ### Other packages
 
+```bash
+# prettier
 sudo npm install -g prettier
+
+# gemini-cli
 npm install -g @google/gemini-cli
+
+# cursor-cli
 curl https://cursor.com/install -fsS | bash
+```
 
 ### Initialization and Services
 
@@ -60,14 +67,6 @@ espanso service start
 
 # Ollama
 sudo systemctl enable --now ollama
-
-# Jellyfin
-sudo systemctl enable --now jellyfin.service
-sudo mkdir -p /srv/jellyfin/{bookshelf,picture,subtitle,the_vault,video}
-sudo chown -R jellyfin:jellyfin /srv/jellyfin
-sudo usermod -aG jellyfin $USER
-sudo chmod -R 775 /srv/jellyfin
-sudo chmod -R g+s /srv/jellyfin
 
 # SSH
 sudo systemctl start sshd
