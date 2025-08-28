@@ -15,7 +15,7 @@
 | SOLID原则(SOLID)                                | https://en.wikipedia.org/wiki/SOLID                         |
 | 设计模式(Software Design Pattern)               | https://en.wikipedia.org/wiki/Software_design_pattern       |
 | UNIX哲学(UNIX Philosophy)                       | https://en.wikipedia.org/wiki/Unix_philosophy               |
-| 认知偏误(Cognitive Bias)                        |                                                             |
+| 认知偏误(Cognitive Bias)                        | https://en.wikipedia.org/wiki/Cognitive_bias                |
 | 安慰剂效应(Placebo Effect)                      |                                                             |
 | 马斯洛需求层次理论(Maslow's Hierarchy of Needs) | https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs |
 | 科学方法(The Scientific Method)                 |                                                             |
