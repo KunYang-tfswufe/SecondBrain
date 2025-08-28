@@ -30,13 +30,11 @@ sudo pacman -Syu --needed cockpit neovim openssh xdg-desktop-portal-hyprland xdg
 
 ### AUR Package List
 
-| 包名 (Package Name)              | Upstream URL                              |
-| -------------------------------- | ----------------------------------------- |
-| `envycontrol`                    | https://github.com/bayasdev/envycontrol   |
-| `espanso-wayland`                | https://github.com/espanso                |
-| `subconverter-bin`               | https://github.com/tindy2013/subconverter |
-| `zen-browser-bin`                | https://github.com/zen-browser/desktop    |
-| `intellij-idea-ultimate-edition` | https://www.jetbrains.com/idea/           |
+| 包名 (Package Name) | Upstream URL                              |
+| ------------------- | ----------------------------------------- |
+| `envycontrol`       | https://github.com/bayasdev/envycontrol   |
+| `espanso-wayland`   | https://github.com/espanso                |
+| `subconverter-bin`  | https://github.com/tindy2013/subconverter |
 
 ### Other Package
 
