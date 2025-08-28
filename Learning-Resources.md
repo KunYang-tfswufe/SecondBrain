@@ -16,13 +16,13 @@
 | 设计模式(Software Design Pattern)               | https://en.wikipedia.org/wiki/Software_design_pattern       |
 | UNIX哲学(UNIX Philosophy)                       | https://en.wikipedia.org/wiki/Unix_philosophy               |
 | 认知偏误(Cognitive Bias)                        | https://en.wikipedia.org/wiki/Cognitive_bias                |
-| 安慰剂效应(Placebo Effect)                      |                                                             |
+| 安慰剂效应(Placebo Effect)                      | https://en.wikipedia.org/wiki/Placebo                       |
 | 马斯洛需求层次理论(Maslow's Hierarchy of Needs) | https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs |
-| 科学方法(The Scientific Method)                 |                                                             |
+| 科学方法(The Scientific Method)                 | https://en.wikipedia.org/wiki/Scientific_method             |
 | 演化(Evolution)                                 | https://en.wikipedia.org/wiki/Evolution                     |
-| 工业革命(The Industrial Revolution)             |                                                             |
+| 工业革命(The Industrial Revolution)             | https://en.wikipedia.org/wiki/Industrial_Revolution         |
 | 广义相对论(General Relativity)                  | https://en.wikipedia.org/wiki/General_relativity            |
-| 互联网(The Internet)                            |                                                             |
+| 互联网(The Internet)                            | https://en.wikipedia.org/wiki/Internet                      |
 | 部分准备金银行制度(Fractional-Reserve Banking)  | https://en.wikipedia.org/wiki/Fractional-reserve_banking    |
 | 公钥密码学(Public-Key Cryptography)             | https://en.wikipedia.org/wiki/Public-key_cryptography       |
 | 费米悖论(Fermi Paradox)                         | https://en.wikipedia.org/wiki/Fermi_paradox                 |
