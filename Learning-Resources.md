@@ -25,9 +25,9 @@
 | 互联网(The Internet)                            |                                                             |
 | 部分准备金银行制度(Fractional-Reserve Banking)  | https://en.wikipedia.org/wiki/Fractional-reserve_banking    |
 | 公钥密码学(Public-Key Cryptography)             | https://en.wikipedia.org/wiki/Public-key_cryptography       |
-| 费米悖论(Fermi Paradox)                         |                                                             |
-| 忒修斯之船(Ship of Theseus)                     |                                                             |
-| 常见误解列表(List of Common Misconceptions)     |                                                             |
+| 费米悖论(Fermi Paradox)                         | https://en.wikipedia.org/wiki/Fermi_paradox                 |
+| 忒修斯之船(Ship of Theseus)                     | https://en.wikipedia.org/wiki/Ship_of_Theseus               |
+| 常见误解列表(List of Common Misconceptions)     | https://en.wikipedia.org/wiki/List_of_common_misconceptions |
 
 ## Essential Books
 
