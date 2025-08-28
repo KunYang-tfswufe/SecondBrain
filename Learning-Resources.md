@@ -4,7 +4,7 @@
 | ----------------------------------------------- | ----------------------------------------------------------- |
 | 大O表示法(Big O Notation)                       | https://en.wikipedia.org/wiki/Big_O_notation                |
 | 算法(Algorithm)                                 | https://en.wikipedia.org/wiki/Algorithm                     |
-| 数据结构(Data Structure)                        | https://en.wikipedia.org/wiki/Algorithm                     |
+| 数据结构(Data Structure)                        | https://en.wikipedia.org/wiki/Data_structure                |
 | 图灵机(Turing Machine)                          | https://en.wikipedia.org/wiki/Turing_machine                |
 | 信息论(Information Theory)                      | https://en.wikipedia.org/wiki/Information_theory            |
 | CPU缓存(CPU Cache)                              | https://en.wikipedia.org/wiki/CPU_cache                     |
