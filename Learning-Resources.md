@@ -1,33 +1,33 @@
 ## Essential Wikipedia Articles
 
-| 词条                                            | URL                                                   |
-| ----------------------------------------------- | ----------------------------------------------------- |
-| 大O表示法(Big O Notation)                       | https://en.wikipedia.org/wiki/Big_O_notation          |
-| 算法(Algorithm)                                 | https://en.wikipedia.org/wiki/Algorithm               |
-| 数据结构(Data Structure)                        | https://en.wikipedia.org/wiki/Algorithm               |
-| 图灵机(Turing Machine)                          | https://en.wikipedia.org/wiki/Turing_machine          |
-| 信息论(Information Theory)                      | https://en.wikipedia.org/wiki/Information_theory      |
-| CPU缓存(CPU Cache)                              | https://en.wikipedia.org/wiki/CPU_cache               |
-| 互联网协议套件(Internet Protocol Suite)         | https://en.wikipedia.org/wiki/Internet_protocol_suite |
-| 操作系统(Operating System)                      | https://en.wikipedia.org/wiki/Operating_system        |
-| 关系数据库(Relational Database)                 | https://en.wikipedia.org/wiki/Relational_database     |
-| 公钥密码学(Public-Key Cryptography)             | https://en.wikipedia.org/wiki/Public-key_cryptography |
-| SOLID原则(SOLID)                                | https://en.wikipedia.org/wiki/SOLID                   |
-| 设计模式(Software Design Pattern)               | https://en.wikipedia.org/wiki/Software_design_pattern |
-| UNIX哲学(UNIX Philosophy)                       |                                                       |
-| 认知偏误(Cognitive Bias)                        |                                                       |
-| 安慰剂效应(Placebo Effect)                      |                                                       |
-| 马斯洛需求层次理论(Maslow's Hierarchy of Needs) |                                                       |
-| 科学方法(The Scientific Method)                 |                                                       |
-| 演化(Evolution)                                 |                                                       |
-| 工业革命(The Industrial Revolution)             |                                                       |
-| 广义相对论(General Relativity)                  |                                                       |
-| 互联网(The Internet)                            |                                                       |
-| 部分准备金银行制度(Fractional-Reserve Banking)  |                                                       |
-| 公钥密码学(Public-Key Cryptography)             |                                                       |
-| 费米悖论(Fermi Paradox)                         |                                                       |
-| 忒修斯之船(Ship of Theseus)                     |                                                       |
-| 常见误解列表(List of Common Misconceptions)     |                                                       |
+| 词条                                            | URL                                                         |
+| ----------------------------------------------- | ----------------------------------------------------------- |
+| 大O表示法(Big O Notation)                       | https://en.wikipedia.org/wiki/Big_O_notation                |
+| 算法(Algorithm)                                 | https://en.wikipedia.org/wiki/Algorithm                     |
+| 数据结构(Data Structure)                        | https://en.wikipedia.org/wiki/Algorithm                     |
+| 图灵机(Turing Machine)                          | https://en.wikipedia.org/wiki/Turing_machine                |
+| 信息论(Information Theory)                      | https://en.wikipedia.org/wiki/Information_theory            |
+| CPU缓存(CPU Cache)                              | https://en.wikipedia.org/wiki/CPU_cache                     |
+| 互联网协议套件(Internet Protocol Suite)         | https://en.wikipedia.org/wiki/Internet_protocol_suite       |
+| 操作系统(Operating System)                      | https://en.wikipedia.org/wiki/Operating_system              |
+| 关系数据库(Relational Database)                 | https://en.wikipedia.org/wiki/Relational_database           |
+| 公钥密码学(Public-Key Cryptography)             | https://en.wikipedia.org/wiki/Public-key_cryptography       |
+| SOLID原则(SOLID)                                | https://en.wikipedia.org/wiki/SOLID                         |
+| 设计模式(Software Design Pattern)               | https://en.wikipedia.org/wiki/Software_design_pattern       |
+| UNIX哲学(UNIX Philosophy)                       | https://en.wikipedia.org/wiki/Unix_philosophy               |
+| 认知偏误(Cognitive Bias)                        |                                                             |
+| 安慰剂效应(Placebo Effect)                      |                                                             |
+| 马斯洛需求层次理论(Maslow's Hierarchy of Needs) | https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs |
+| 科学方法(The Scientific Method)                 |                                                             |
+| 演化(Evolution)                                 | https://en.wikipedia.org/wiki/Evolution                     |
+| 工业革命(The Industrial Revolution)             |                                                             |
+| 广义相对论(General Relativity)                  | https://en.wikipedia.org/wiki/General_relativity            |
+| 互联网(The Internet)                            |                                                             |
+| 部分准备金银行制度(Fractional-Reserve Banking)  | https://en.wikipedia.org/wiki/Fractional-reserve_banking    |
+| 公钥密码学(Public-Key Cryptography)             | https://en.wikipedia.org/wiki/Public-key_cryptography       |
+| 费米悖论(Fermi Paradox)                         |                                                             |
+| 忒修斯之船(Ship of Theseus)                     |                                                             |
+| 常见误解列表(List of Common Misconceptions)     |                                                             |
 
 ## Essential Books
 
