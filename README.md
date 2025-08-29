@@ -1,6 +1,6 @@
 # The Ultimate Planning Checklist
 
-开发一个项目在写代码前，确保你已经有了这些东西：
+开发一个项目在写代码前，确保你已经有了这些东西(开发模式绝对不能采用瀑布开发,开发周期非常短)：
 
 ## ✅ Planning Checklist
 
